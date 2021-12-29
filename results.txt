@@ -1,0 +1,1065 @@
+
+
+*** EPOCH 41 ***
+Input :[ b ' y o u '   b " ' r e "   b ' r e a d y '   b ' t o '   b ' t h i n k '   b ' , '   b ' p l a n '   b ' , '   b ' a n d '   b ' l i v e ' 
+   b ' b i g '   b ' . '   b ' f e s t i v i t i e s '   b ' c a n n o t '   b ' b e '   b ' b i g '   b ' e n o u g h '   b ' f o r '   b ' y o u ' 
+   b ' i n ' ]
+Target:august
+predicted word :november
+
+Input :[ b ' h a v e '   b ' i t '   b ' p a y '   b ' f o r '   b ' i t s e l f '   b ' . '   b ' m a k e '   b ' d e e p e r '   b ' e m o t i o n a l ' 
+   b ' b o n d s '   b ' w i t h '   b ' f r i e n d s '   b ' i n '   b ' f e b r u a r y '   b ' . '   b ' l o v e '   b ' a n d ' 
+   b ' h a p p y '   b ' s u r p r i s e s '   b ' w i l l ' ]
+Target:fill
+predicted word :be
+
+Input :[ b ' w h e r e '   b ' y o u r '   b ' s t r e s s '   b ' l e v e l '   b ' a p p e a r s '   b ' i n '   b ' y o u r '   b ' b o d y ' 
+   b ' a n d '   b ' m a n a g e '   b ' i t '   b ' n a t u r a l l y '   b ' . '   b ' i f '   b ' y o u '   b ' s u f f e r '   b ' f r o m ' 
+   b ' m i g r a i n e s '   b ' , '   b ' y o u ' ]
+Target:can
+predicted word :will
+
+Input :[ b ' p u n c h e s '   b ' r a t h e r '   b ' t h a n '   b ' t r y i n g '   b ' t o '   b ' p u t '   b ' u p '   b ' a '   b ' f i g h t ' 
+   b ' . '   b ' h u g o l e m e c h a n t '   b ' t h e r e '   b ' m a y '   b ' b e '   b ' a '   b ' g r e a t '   b ' d e a l '   b ' o f ' 
+   b ' c h a r g e '   b ' i n ' ]
+Target:your
+predicted word :the
+
+Input :[ b ' t i m e s '   b ' o f '   b ' g r e a t '   b ' u n c e r t a i n t y '   b ' . '   b ' i t '   b ' s '   b ' o k a y '   b ' t h a t ' 
+   b ' y o u '   b ' v e '   b ' p e r h a p s '   b ' l e a n e d '   b ' a '   b ' l i t t l e '   b ' h e a v i l y '   b ' o n ' 
+   b ' t h e s e '   b ' c r e a t u r e '   b ' c o m f o r t s ' ]
+Target:over
+predicted word :,
+
+Input :[ b " ' s "   b ' c r u c i a l '   b ' t o '   b ' c a l m '   b ' y o u r '   b ' m i n d '   b ' b e f o r e '   b ' g o i n g '   b ' t o ' 
+   b ' b e d '   b ' . '   b ' a '   b ' h o t '   b ' b a t h '   b ' w i t h '   b ' d r o p s '   b ' o f '   b ' l a v e n d e r '   b ' o i l ' 
+   b ' i s ' ]
+Target:a
+predicted word :a
+
+Input :[ b ' , '   b ' e v e n '   b ' i f '   b ' i t '   b ' s '   b ' j u s t '   b ' f o r '   b ' a '   b ' d a y '   b ' . '   b ' r e m e m b e r ' 
+   b ' : '   b ' t h e r e '   b ' s '   b ' a '   b ' f i n e '   b ' l i n e '   b ' b e t w e e n '   b ' s t a y i n g '   b ' w o k e ' ]
+Target:and
+predicted word :and
+
+Input :[ b ' t o '   b ' s e e '   b ' t h e '   b ' g o o d '   b ' i n t e n t i o n s '   b ' i n '   b ' t h e '   b ' f a i l u r e s '   b ' o f ' 
+   b ' o t h e r s '   b ' , '   b ' a n d '   b ' t o '   b ' h o p e '   b ' f o r '   b ' p e a c e '   b ' s o '   b ' t h a t '   b ' y o u ' 
+   b ' c a n ' ]
+Target:be
+predicted word :be
+
+Input :[ b ' w h a t '   b ' y o u '   b ' b e l i e v e '   b ' i n '   b ' . '   b ' t h i s '   b ' i s '   b ' n o t '   b ' a '   b ' g o o d ' 
+   b ' r e a s o n '   b ' t o '   b ' c l a m '   b ' u p '   b ' . '   b ' i t '   b ' i s '   b ' v i t a l '   b ' t h a t '   b ' y o u ' ]
+Target:get
+predicted word :feel
+
+Input :[ b ' t h o u g h t '   b ' o f '   b ' h a v i n g '   b ' t o '   b ' d e c i d e '   b ' o n e '   b ' w a y '   b ' o r '   b ' a n o t h e r ' 
+   b ' . '   b ' r e m e m b e r '   b ' t h a t '   b ' e v e r y t h i n g '   b ' i s '   b ' n o t '   b ' s e t '   b ' i n '   b ' s t o n e ' 
+   b ' f o r e v e r '   b ' . ' ]
+Target:you
+predicted word :the
+
+whatever you keep inside due to fear of ridicule or exposure will surface eventually . you will find however that you are officially . there 's apt to heed to understand that you are not careful . $ you are
+a dispute that has dragged on far too long must be resolved this weekend . make an effort to see acquire you to a walk . $ you are not careful to be a lot of purification . you ,
+let people into your life and they will take you good places ! $ you are not careful to get a lot of mystery , take baby the mood and heed to aggressively your credibility . you will feel encouraged to understand your emotions . there is no one laughing for you .
+today you may expect an unexpected partner , encourage to be tempted . the fullest of encountering , but let ease a break focus to sense
+your daily routine can be a great source of pleasure and discoveries this year if you can sit still long done . $ you are not careful to get a lot of unconscious , take the situation that you are officially . there is no one important of the planets around you will feel encouraged to be a good hearty and calming . you will not chase . do not let to recreate your credibility . thus , you may feel like you are . you are not careful . $ you are not careful to loosen your credibility . you will feel encouraged to you . $ you are not careful to get bent , but you are feeling okay . there is no one laughing for you . $ you are not careful to get a lot of unconscious , take the situation that you are officially . there is no one important of the planets around you will feel encouraged to be a good hearty and calming . you will not chase . do not let to recreate your credibility . thus , you may feel like you are . you are not careful . $ you are not careful to loosen your credibility . you will feel encouraged to you . $ you are not careful to get bent , but you are feeling okay . there is no one laughing for you . $ you are not careful to get a lot of unconscious , take the situation that you are officially . there is no one important of the planets around you will feel encouraged to be a good hearty and calming . you will not chase . do not let to recreate your credibility . thus , you may feel like you are . you are not careful . $ you are not careful to loosen your credibility . you will feel encouraged to you . $ you are not careful to get bent , but you are feeling okay . there is no one laughing for you . $ you are not careful to get a lot of unconscious , take the situation that you are officially . there is no one important of the planets around you will feel encouraged to be a good hearty and calming . you will not chase . do not let to recreate your credibility . thus , you may feel like you are . you are not careful . $ you are not careful to loosen your credibility . you will feel encouraged to you . $ you are not careful to get bent , but you are feeling okay . there is no one laughing for you . $ you are not careful to get a lot of unconscious , take the situation that you are officially . there is no one important of the planets around you will feel encouraged to be a good hearty and calming . you will not chase . do not let to recreate your credibility . thus , you may feel like you are . you are not careful . $ you are not careful to loosen your credibility . you will feel encouraged to you . $ you are not careful to get bent , but you are feeling okay . there is no one laughing for you . $ you are not careful to get a lot of unconscious , take the situation that you are officially . there is no one important of the planets around you will feel encouraged to be a good hearty and calming . you will not chase . do not let to recreate your credibility . thus , you may
+
+*** EPOCH 42 ***
+Input :[ b ' r e l a t i o n s h i p s '   b ' . '   b ' t h e '   b ' f r i e n d s '   b ' a n d '   b ' d e c i s i o n s '   b ' y o u ' 
+   b ' m a k e '   b ' i n '   b ' t h e '   b ' f i r s t '   b ' t w o '   b ' m o n t h s '   b ' w i l l '   b ' m e a n '   b ' a ' 
+   b ' l o t '   b ' i n '   b ' t h e '   b ' s u m m e r ' ]
+Target:and
+predicted word :,
+
+Input :[ b ' , '   b ' y o u '   b ' m a y '   b ' f e e l '   b ' l i k e '   b ' t a k i n g '   b ' t h e '   b ' p l u n g e '   b ' a n d ' 
+   b ' w r i t i n g '   b ' t h a t '   b ' b o o k '   b ' y o u '   b " ' v e "   b ' b e e n '   b ' t h i n k i n g '   b ' a b o u t ' 
+   b ' f o r '   b ' a '   b ' l o n g ' ]
+Target:time
+predicted word :time
+
+Input :[ b ' m o r e '   b ' o f '   b ' e v e r y t h i n g '   b ' ! '   b ' a s '   b ' y o u '   b ' b e g i n '   b ' t o '   b ' e x p r e s s ' 
+   b ' y o u r '   b ' f e e l i n g s '   b ' , '   b ' b e '   b ' a w a r e '   b ' t h a t '   b ' a '   b ' r e g u l a r ' 
+   b ' f i t n e s s '   b ' s c h e d u l e '   b ' c a n ' ]
+Target:help
+predicted word :be
+
+Input :[ b ' a l l e v i a t e '   b ' t h i s '   b ' f e e l i n g '   b ' b y '   b ' r e a c h i n g '   b ' o u t '   b ' t o '   b ' o t h e r s ' 
+   b ' . '   b ' n o w '   b ' , '   b ' y o u '   b ' d o '   b ' n o t '   b ' h a v e '   b ' t o '   b ' w a l k '   b ' u p '   b ' t o ' 
+   b ' p e o p l e ' ]
+Target:and
+predicted word :.
+
+Input :[ b ' d i s c o v e r '   b ' t h a t '   b ' t h e '   b ' w o r l d '   b ' r e a l l y '   b ' d o e s '   b ' l o v e '   b ' y o u ' 
+   b ' a n d '   b ' t h a t '   b ' y o u '   b ' a r e '   b ' y o u r '   b ' s e v e r e s t '   b ' c r i t i c '   b ' . ' 
+   b ' f i n a n c e s '   b ' m a y '   b ' c o m e '   b ' u n d e r ' ]
+Target:close
+predicted word :a
+
+Input :[ b ' i s s u e '   b ' a t '   b ' h o m e '   b ' a n d '   b ' m o t i v a t e s '   b ' y o u '   b ' t o '   b ' m e e t '   b ' a l l ' 
+   b ' c h a l l e n g e s '   b ' h e a d '   b ' - '   b ' o n '   b ' . '   b ' s l o w '   b ' d o w n '   b ' a n d '   b ' r e s t ' 
+   b ' i n '   b ' n o v e m b e r ' ]
+Target:.
+predicted word :.
+
+Input :[ b ' e s p e c i a l l y '   b ' s i n c e '   b ' y o u '   b ' k n o w '   b ' y o u '   b ' a r e '   b ' r i g h t '   b ' . '   b ' d o ' 
+   b ' n o t '   b ' b a c k '   b ' d o w n '   b ' e v e n '   b ' t h o u g h '   b ' t h e '   b ' p r e s s u r e '   b ' w i l l '   b ' b e ' 
+   b ' g r e a t '   b ' . ' ]
+Target:$
+predicted word :$
+
+Input :[ b ' n o t '   b ' d a y d r e a m '   b ' a t '   b ' w o r k '   b ' i n '   b ' f e b r u a r y '   b ' . '   b ' i n '   b ' m a y ' 
+   b ' a n d '   b ' j u n e '   b ' g e t '   b ' r e a d y '   b ' f o r '   b ' s o m e '   b ' r o m a n t i c '   b ' i n s i g h t s ' 
+   b ' a n d '   b ' p o s s i b l y '   b ' p a s s i o n a t e ' ]
+Target:love
+predicted word :love
+
+Input :[ b ' a n d '   b ' s u p p o r t i v e '   b ' . '   b ' t h e '   b ' l a s t '   b ' t w o '   b ' m o n t h s '   b ' g l o w '   b ' w i t h ' 
+   b ' a '   b ' f r i e n d l y '   b ' s o c i a l '   b ' s c e n e '   b ' a n d '   b ' m a y b e '   b ' l o v e '   b ' f r o m '   b ' a n ' 
+   b ' u n e x p e c t e d '   b ' d i r e c t i o n ' ]
+Target:!
+predicted word :.
+
+Input :[ b ' f r e s h '   b ' l e m o n a d e '   b ' i n s t e a d '   b ' o f '   b ' s o d a '   b ' p o p '   b ' ! ' 
+   b ' h u g o l e m e c h a n t '   b ' w h e n '   b ' y o u '   b ' f e e l '   b ' l o s t '   b ' , '   b ' a n d '   b ' l i k e ' 
+   b ' y o u '   b ' d o '   b ' n o t '   b ' k n o w '   b ' w h a t ' ]
+Target:you
+predicted word :you
+
+whatever you keep inside due to fear of ridicule or exposure will surface eventually . you will find however that shocks . the day 's aspect of the planets may be flagging to you . the drive to take a
+a dispute that has dragged on far too long must be resolved this weekend . make an effort to see acquire you to the extremes . $ you may be too cloudy with usual of energy . the day is
+let people into your life and they will take you good places ! $ you are not careful to get it . echinacea . $ you may be surprised particularly about the news . you may feel like retreating and see acquire you . there 's no reason to the landscape of the
+today you may expect an unexpected chance to accomplish your health habits . playful nature herbal not , say , get may be tempted to get
+your daily routine can be a great source of pleasure and discoveries this year if you can sit still long . the planets of the day race gives you of your own insights . you may be tempted to stray up the pieces of than four your life . if you are entertaining and upbeat , and you may feel like retreating and see you are . you are not trouble to take a break up the certain of your life . you may feel like retreating . the goings and do not spoil to recreate your credibility . the planets is not actually to be the answer to take a walk . but it is good to be a good time . bikram , and the time to take a break to choose your lymphatic system surrounding your own life . you are not involved to be a decision to get your mind . $ you may be tempted to talk that you are officially within of the day , you may feel like doing to be collapsing . . enlightenment your ambitions may get to be acknowledged . it 's a good time to lay . $ you may be too cloudy and socially , and you may feel like the time to take a walk waters and well . $ you may feel like expressing your emotions . the planets is is important to internalize your credibility of your life immeasurably . you may feel like retreating . the goings and not be a good time to unlock your batteries . you may feel like retreating . the goings and do not spoil to recreate your credibility . the planets is not actually to be the answer to take a walk . but it is good to be a good time . bikram , and the time to take a break to choose your lymphatic system surrounding your own life . you are not involved to be a decision to get your mind . $ you may be tempted to talk that you are officially within of the day , you may feel like doing to be collapsing . . enlightenment your ambitions may get to be acknowledged . it 's a good time to lay . $ you may be too cloudy and socially , and you may feel like the time to take a walk waters and well . $ you may feel like expressing your emotions . the planets is is important to internalize your credibility of your life immeasurably . you may feel like retreating . the goings and not be a good time to unlock your batteries . you may feel like retreating . the goings and do not spoil to recreate your credibility . the planets is not actually to be the answer to take a walk . but it is good to be a good time . bikram , and the time to take a break to choose your lymphatic system surrounding your own life . you are not involved to be a decision to get your mind . $ you may be tempted to talk that you are officially within of the day , you may feel like doing to be collapsing . . enlightenment your ambitions may get to be acknowledged . it 's a good time to lay . $ you may be too cloudy and socially , and you may feel like the time to take a walk waters and well . $ you may feel like expressing your emotions . the planets is is important to internalize your credibility of your life immeasurably . you may feel like retreating . the goings and not be
+
+*** EPOCH 43 ***
+Input :[ b ' i n c l i n e '   b ' y o u '   b ' t o '   b ' m a k e '   b ' s e v e r a l '   b ' t a l l '   b ' s t a t e m e n t s '   b ' a b o u t ' 
+   b ' y o u r s e l f '   b ' , '   b ' w h a t '   b ' y o u '   b ' d o '   b ' , '   b ' w h e r e '   b ' y o u '   b ' l i v e '   b ' , ' 
+   b ' a n d '   b ' w h e t h e r ' ]
+Target:you
+predicted word :you
+
+Input :[ b ' f o r '   b ' o t h e r '   b ' p e o p l e '   b " ' s "   b ' p r o b l e m s '   b ' a n d '   b ' g a i n '   b ' g r e a t ' 
+   b ' i n s i g h t '   b ' i n t o '   b ' s o l v i n g '   b ' y o u r '   b ' o w n '   b ' . '   b ' e a s i l y '   b ' a n d ' 
+   b ' h a p p i l y '   b ' f i x '   b ' s o m e '   b ' d a i l y ' ]
+Target:concerns
+predicted word :concerns
+
+Input :[ b ' s h i f t '   b ' i n '   b ' e n e r g y '   b ' - '   b ' o n e '   b ' t h a t '   b ' i s '   b ' q u i t e ' 
+   b ' s i g n i f i c a n t '   b ' . '   b ' t h i s '   b ' i s '   b ' t h e '   b ' s t a r t '   b ' o f '   b ' a '   b ' f o u r '   b ' - ' 
+   b ' w e e k '   b ' p e r i o d ' ]
+Target:during
+predicted word :could
+
+Input :[ b ' i n n e r '   b ' p e a c e '   b ' t h r o u g h '   b ' t h e '   b ' c a l m i n g '   b ' p r a c t i c e '   b ' o f ' 
+   b ' m e d i t a t i o n '   b ' ( '   b ' a '   b ' l o n g '   b ' w a l k '   b ' c a n '   b ' b e '   b ' a '   b ' m e d i t a t i o n ' 
+   b ' , '   b ' t o o '   b ' ) '   b ' o r ' ]
+Target:gentle
+predicted word :gentle
+
+Input :[ b ' t h e '   b ' m i s t a k e s '   b ' o f '   b ' t h e '   b ' p a s t '   b ' . '   b ' y o u '   b " ' r e "   b ' g o i n g '   b ' t o ' 
+   b ' b e '   b ' s o m e t h i n g '   b ' o f '   b ' a '   b ' p s y c h o a n a l y s t '   b ' t o d a y '   b ' . ' 
+   b ' h u g o l e m e c h a n t '   b ' y o u '   b " ' r e " ]
+Target:naturally
+predicted word :naturally
+
+Input :[ b ' , '   b ' a n d '   b ' p e o p l e '   b ' w i l l '   b ' e n j o y '   b ' y o u r '   b ' c o m p a n y '   b ' . '   b ' e x t r a ' 
+   b ' m o n e y '   b ' c o u l d '   b ' s u d d e n l y '   b ' a p p e a r '   b ' i n '   b ' j a n u a r y '   b ' . '   b ' s e e ' 
+   b ' h o w '   b ' m u c h '   b ' y o u ' ]
+Target:can
+predicted word :can
+
+Input :[ b ' c o n t r o l '   b ' i s '   b ' r e c o m m e n d e d '   b ' - '   b ' i n '   b ' y o u r '   b ' d i e t '   b ' , '   b ' y o u r ' 
+   b ' e x e r c i s e '   b ' r e g i m e n '   b ' a n d '   b ' y o u r '   b ' d a i l y '   b ' s c h e d u l e '   b ' . ' 
+   b ' g e t t i n g '   b ' t h e '   b ' r e s t '   b ' y o u ' ]
+Target:need
+predicted word :need
+
+Input :[ b ' e x e r c i s e '   b ' . '   b ' i f '   b ' y o u '   b ' a r e '   b ' f e e l i n g '   b ' s u s c e p t i b l e '   b ' t o ' 
+   b ' i l l n e s s '   b ' , '   b ' u s e '   b ' p r e v e n t i v e '   b ' h e r b a l '   b ' r e m e d i e s '   b ' s u c h '   b ' a s ' 
+   b ' g o l d e n s e a l '   b ' , '   b ' e c h i n a c e a '   b ' a n d ' ]
+Target:astragalus
+predicted word :astragalus
+
+Input :[ b ' l i k e '   b ' t h e '   b ' w e a t h e r '   b ' , '   b ' p e o p l e '   b " ' s "   b ' e x p r e s s i o n s '   b ' , '   b ' o r ' 
+   b ' s m a l l '   b ' c o i n c i d e n c e s '   b ' . '   b ' y o u '   b ' s e e m '   b ' t o '   b ' b e '   b ' f l o a t i n g ' 
+   b ' o n '   b ' a '   b ' c l o u d ' ]
+Target:.
+predicted word :.
+
+Input :[ b ' y o u '   b ' l a v i s h '   b ' o n '   b ' o t h e r s '   b ' r e f l e c t s '   b ' b a c k '   b ' o n '   b ' y o u '   b ' ! ' 
+   b ' t h e '   b ' f i r s t '   b ' m o n t h '   b ' m a y '   b ' b e '   b ' o n e '   b ' o f '   b ' t h e '   b ' r i c h e s t '   b ' , ' 
+   b ' s o ' ]
+Target:open
+predicted word :pace
+
+whatever you keep inside due to fear of ridicule or exposure will surface eventually . you will find however that elevates your meal path . you may feel like you are . you are striving to sail up the certain
+a dispute that has dragged on far too long must be resolved this weekend . make an effort to see some risks . if you are able to resist to frustration . $ you may be a good time to
+let people into your life and they will take you good places ! $ you 're surrounded to your head feeling . aim your workout situation . $ you may feel see you cannot not be the chance . $ you are not careful to loosen your credibility . you may feel like
+today you may expect an unexpected chance to get thrown the truth . $ you have been a lot news basis to be greater you to
+your daily routine can be a great source of pleasure and discoveries this year if you can sit still long done . $ you may feel some inspiring with day . although you may feel guilty it . $ you may feel inclined to get your mind accordingly . if you are entertaining and successful , but you have the answer to sign your own insights . you may be tempted to stray up the ground of your own insights . $ you are not careful to get a little rattled instrument . the fact you feel angry to the news . you will navigate your stomach hobbies . spirit , you may feel guilty in the wills . be prepared to consider a decision . $ you may be a good time to lay . $ you may be a good time to talk that the stamina of earthiness , and dislike and love . you may be tempted to do you breathe . but you are isolated to be honest . $ you are not careful to get a little rattled , and you will want to consider a decision . $ you may be especially true difficult to get a little rattled . the fact you feel angry to the news . you will navigate your energy . the planets could be to internalize your lymphatic system possess . listen to throw up the truth . $ you are not be trouble to stray up the pieces of your lungs . if you are born , you will find to be treated choices . do not let them to explore your own exercise and day . $ you may be a good time to talk that the stamina of earthiness , and dislike some intellectual ) current or prospective ) play or learn to frustration pain of meat . $ you should be learning to be cared of than existing . $ you may be a good time to talk that the result of the planets could be a little time to ask . $ you may be too suspicious to certain tremendous of forethought . you may feel some urgency to your body . $ you are not careful to loosen . you beam blossom . you may feel guilty it is not going to be outrageous . if you are able to be warned . you beam food about the maximum four and lots , flowers perhaps people are willing to consider bodies and waiting up accomplishing your bubbly . if you are entertaining , loved , and in february . a yearned ) could change walk and heed . be daring , nail , parsley , parsley , parsley , parsley , bread well . be blessed in february . february puts to be stunningly , loved in february . a yearned storm scene in february . the year ends ! $ a cup year mellows strikes . the last month could set and be generous and systematic your lungs . year puts with a slightly year ! $ yes you have the center times , and you may feel some inspiring and violent in february . you can be a scare recipes up with wise . perhaps you have a bit of mystery affairs . you may be tempted to stray away the house . $ you may be a good time to talk . $ you may be tempted to talk about the next relationship . you may feel guilty it . $ you may feel inclined to get your mind accordingly . if you are entertaining and successful , but you have the answer to sign your own insights . you
+
+*** EPOCH 44 ***
+Input :[ b ' r e l i e f '   b ' a n d '   b ' m u c h '   b ' l a u g h t e r '   b ' w i l l '   b ' w a s h '   b ' o v e r '   b ' y o u r ' 
+   b ' c u r r e n t '   b ' r e l a t i o n s h i p '   b ' t o d a y '   b ' . '   b ' i f '   b ' y o u '   b ' h a v e '   b ' b o t h ' 
+   b ' b e e n '   b ' b u r d e n e d '   b ' b y '   b ' t r o u b l e s ' ]
+Target:connected
+predicted word :connected
+
+Input :[ b ' y o u r '   b ' j a d e d '   b ' , '   b ' v e n g e f u l '   b ' s i d e '   b ' a t '   b ' b a y '   b ' . '   b ' i t '   b ' i s ' 
+   b ' b e s t '   b ' i f '   b ' y o u '   b ' f o r g i v e '   b ' , '   b ' f o r g e t '   b ' , '   b ' a n d '   b ' m o v e '   b ' o n ' ]
+Target:with
+predicted word :sides
+
+Input :[ b ' , '   b ' b e '   b ' r e s p o n s i b l e '   b ' , '   b ' a n d '   b ' e n j o y '   b ' a '   b ' b i g '   b ' - ' 
+   b ' h e a r t e d '   b ' , '   b ' f u n '   b ' - '   b ' l o v i n g '   b ' a u g u s t '   b ' . '   b ' b e '   b ' s t r a i g h t ' 
+   b ' w i t h '   b ' a ' ]
+Target:lover
+predicted word :lover
+
+Input :[ b ' o r '   b ' p r o s p e c t i v e '   b ' ) '   b ' s e e m s '   b ' t o '   b ' b e '   b ' a w e s o m e l y '   b ' d i r e c t ' 
+   b ' w i t h '   b ' y o u '   b ' t o d a y '   b ' , '   b ' d o '   b ' n o t '   b ' c l o s e '   b ' u p '   b ' l i k e '   b ' a ' 
+   b ' c l a m '   b ' a n d ' ]
+Target:refuse
+predicted word :refuse
+
+Input :[ b ' w h a t '   b ' n o '   b ' o n e '   b ' e l s e '   b ' c a n '   b ' s e e '   b ' . '   b ' i t '   b ' m a y '   b ' b e ' 
+   b ' h a r d '   b ' t o '   b ' s h a r e '   b ' y o u r s '   b ' n e w s '   b ' , '   b ' t h o u g h '   b ' , '   b ' b u t '   b ' d o ' ]
+Target:not
+predicted word :not
+
+Input :[ b ' d e v e l o p i n g '   b ' h e a l t h y '   b ' h a b i t s '   b ' t o '   b ' l i v e '   b ' b y '   b ' . '   b ' y o u ' 
+   b ' n e e d '   b ' t o '   b ' e a t '   b ' t h r e e '   b ' m e a l s '   b ' a '   b ' d a y '   b ' w i t h '   b ' h e a l t h y ' 
+   b ' s n a c k s '   b ' i n '   b ' b e t w e e n ' ]
+Target:(
+predicted word :and
+
+Input :[ b ' w i l l '   b ' e n j o y '   b ' t h e '   b ' b a r r a g e '   b ' o f '   b ' i n f o r m a t i o n '   b ' t h a t '   b ' c o m e s ' 
+   b ' y o u r '   b ' w a y '   b ' i n '   b ' t h e '   b ' n e x t '   b ' t w o '   b ' w e e k s '   b ' , '   b ' b u t ' 
+   b ' e v e n t u a l l y '   b ' y o u '   b ' w i l l ' ]
+Target:slow
+predicted word :find
+
+Input :[ b ' a n d '   b ' d a r i n g '   b ' i n '   b ' n o v e m b e r '   b ' . '   b ' b e '   b ' s p i r i t e d '   b ' a n d ' 
+   b ' s e n s i b l e '   b ' . '   b ' d r e a m s '   b ' a n d '   b ' a s p i r a t i o n s '   b ' f o r '   b ' t h e '   b ' f u t u r e ' 
+   b ' g e t '   b ' b i g '   b ' i n '   b ' f e b r u a r y ' ]
+Target:.
+predicted word :.
+
+Input :[ b ' n o t '   b ' b e '   b ' t o o '   b ' q u i c k '   b ' t o '   b ' s a y '   b ' n o '   b ' . '   b ' b e '   b ' s h a r p '   b ' , ' 
+   b ' s e n s i b l e '   b ' , '   b ' a n d '   b ' s e n s i t i v e '   b ' i n '   b ' n o v e m b e r '   b ' . '   b ' w h e n ' 
+   b ' t h e ' ]
+Target:dust
+predicted word :dust
+
+Input :[ b ' y o u r '   b ' h e a r t '   b ' . '   b ' w o r k '   b ' h a r d '   b ' i n '   b ' m a r c h '   b ' a n d '   b ' a p r i l ' 
+   b ' a n d '   b ' w i n '   b ' r e w a r d s '   b ' a n d '   b ' r e c o g n i t i o n '   b ' . '   b ' i t '   b " ' s "   b ' a n ' 
+   b ' a m b i t i o u s '   b ' , ' ]
+Target:affectionate
+predicted word :affectionate
+
+whatever you keep inside due to fear of ridicule or exposure will surface eventually . you will find however that elevates your sign . $ you may be tempted to stray your finger up and moving . you may be
+a dispute that has dragged on far too long must be resolved this weekend . make an effort to see acquire you to make the blame . $ you may be surprised particularly about your emotions . this is a
+let people into your life and they will take you good places ! $ you 're surrounded to deal you fostered , and you 'll settle your emotions . do not be surprised that you are striving to choose the step of your life . you may be tempted to get your eye
+today you may expect an unexpected chance to make a step of rational of your favor and get away centered up quarreling . do not give
+your daily routine can be a great source of pleasure and discoveries this year if you can sit still long . you may find that $ you are not careful to loosen your emotions . the planets could be too suspicious to certain special of your life . you may be tempted to stray your finger . $ you are feeling pretty difficult to reconnect your lymphatic system surrounding your mind . $ you have the resources of deception is 's day , and you may be tempted to stray your finger up . try to throw up the right of your life . you may find include fish far from the first month . do not be surprised . you will find that you 're well in the first month . in hold you may have to be treated themselves in the fall . sharp minds in january . be strong and packed , and fun and profitable company . january , neighbors and enjoy some intellectual , consideration , and jump your status years you 're bursting forth in the equation that you are not craving . $ you may be tempted to get a little rattled waters and really . $ you may feel like expressing your emotions . the planets is not actually to meditate . you will find to be outrageous and glowing , and right is likely to be outrageous . do you want to be a little complicated , and right is up up . $ you may be surprised particularly about your emotions . the planets could be too suspicious to take your finger silence . you may also be surprised particularly about your emotions . if you are feeling okay . you will find to be observant . you beam blossom . $ you may feel inclined to get your emotions . the celestial configuration brings you to make the consequences of your body . $ you are feeling to be said basis , and not be burst to your own body shampoo , and you will not have drawn on the day . $ you may be surprised particularly about your emotions . the planets could be too suspicious to take your finger silence . you may also be surprised particularly about your emotions . if you are feeling okay . you will find to be observant . you beam blossom . $ you may feel inclined to get your emotions . the celestial configuration brings you to make the consequences of your body . $ you are feeling to be said basis , and not be burst to your own body shampoo , and you will not have drawn on the day . $ you may be surprised particularly about your emotions . the planets could be too suspicious to take your finger silence . you may also be surprised particularly about your emotions . if you are feeling okay . you will find to be observant . you beam blossom . $ you may feel inclined to get your emotions . the celestial configuration brings you to make the consequences of your body . $ you are feeling to be said basis , and not be burst to your own body shampoo , and you will not have drawn on the day . $ you may be surprised particularly about your emotions . the planets could be too suspicious to take your finger silence . you may also be surprised particularly about your emotions . if you are feeling okay . you will find to be observant . you beam blossom . $ you may feel inclined to get your emotions . the celestial configuration brings you to
+
+*** EPOCH 45 ***
+Input :[ b ' b e '   b ' h a r d '   b ' . '   b ' h a v e '   b ' h a p p y '   b ' t i m e s '   b ' w i t h '   b ' r e l a t i v e s '   b ' i n ' 
+   b ' a u g u s t '   b ' . '   b ' a n '   b ' o l d '   b ' l o v e '   b ' m a y '   b ' s w e e t l y '   b ' r e a p p e a r '   b ' i n ' 
+   b ' d e c e m b e r '   b ' . ' ]
+Target:work
+predicted word :october
+
+Input :[ b ' a '   b ' p i t f a l l '   b ' t h a t '   b ' y o u '   b ' h a v e '   b ' s e e n '   b ' b e f o r e '   b ' . ' 
+   b ' h u g o l e m e c h a n t '   b ' y o u '   b ' a r e '   b ' i n '   b ' a '   b ' v e r y '   b ' f a v o r a b l e ' 
+   b ' p o s i t i o n '   b ' i n '   b ' m a n y '   b ' w a y s '   b ' . ' ]
+Target:you
+predicted word :year
+
+Input :[ b ' i t '   b ' m a k e s '   b ' y o u '   b ' f e e l '   b ' c h a r g e d '   b ' . '   b ' t o '   b ' p i c t u r e '   b ' t h i s ' 
+   b ' e n e r g y '   b ' , '   b ' i m a g i n e '   b ' a n '   b ' o l y m p i c '   b ' s w i m m e r '   b ' . '   b ' t h i n k '   b ' o f ' 
+   b ' t h e '   b ' d r i v e ' ]
+Target:and
+predicted word :to
+
+Input :[ b ' w o r k '   b ' i n '   b ' f e b r u a r y '   b ' . '   b ' t h i s '   b ' w i l l '   b ' s e r v e '   b ' y o u '   b ' w e l l ' 
+   b ' l a t e r '   b ' . '   b ' m a k e '   b ' s o m e '   b ' n e w '   b ' f r i e n d s '   b ' i n '   b ' a p r i l '   b ' , ' 
+   b ' a n d '   b ' f i n d ' ]
+Target:some
+predicted word :some
+
+Input :[ b ' b r i g h t e s t '   b ' i n '   b ' j u n e '   b ' , '   b ' a t t r a c t i n g '   b ' a '   b ' y e a r '   b " ' s "   b ' w o r t h ' 
+   b ' o f '   b ' l u c k '   b ' , '   b ' l o v e '   b ' , '   b ' a n d '   b ' h a p p i n e s s '   b ' ! '   b ' h u g o l e m e c h a n t ' 
+   b ' w o r k '   b ' a n d ' ]
+Target:home
+predicted word :june
+
+Input :[ b ' a t '   b ' t h e '   b ' c e n t e r '   b ' o f '   b ' y o u r '   b ' o w n '   b ' l i f e '   b ' , '   b ' t o o '   b ' ! ' 
+   b ' t a k e '   b ' g o o d '   b ' c a r e '   b ' o f '   b ' y o u r '   b ' n e e d s '   b ' a n d '   b ' h a p p i n e s s '   b ' a n d ' 
+   b ' b e ' ]
+Target:strong
+predicted word :nice
+
+Input :[ b " ' r e "   b ' s t a r v e d '   b ' f o r '   b ' n e w '   b ' p e o p l e '   b ' , '   b ' p l a c e s '   b ' , '   b ' a n d ' 
+   b ' t h i n g s '   b ' , '   b ' y o u '   b " ' l l "   b ' b e '   b ' t h r i l l e d '   b ' w i t h '   b ' t h i s '   b ' y e a r ' 
+   b ' . '   b ' g r e a t ' ]
+Target:variety
+predicted word :variety
+
+Input :[ b ' b e '   b ' a r o u n d '   b ' p e o p l e '   b ' i s '   b ' v e r y '   b ' i m p o r t a n t '   b ' . '   b ' y o u r '   b ' o w n ' 
+   b ' m i n d '   b ' h a s '   b ' o o d l e s '   b ' o f '   b ' i n f o r m a t i o n '   b ' t o '   b ' g i v e '   b ' y o u '   b ' i f ' 
+   b ' y o u '   b ' w i l l ' ]
+Target:listen
+predicted word :encounter
+
+Input :[ b ' w e '   b ' a r e '   b ' s o '   b ' c o m m i t t e d '   b ' t o '   b ' a '   b ' b e t t e r '   b ' f u t u r e '   b ' f o r ' 
+   b ' o u r s e l v e s '   b ' a n d '   b ' o u r '   b ' l o v e d '   b ' o n e s '   b ' , '   b ' t h e r e '   b ' i s '   b ' a ' 
+   b ' t e n d e n c y '   b ' t o ' ]
+Target:judge
+predicted word :judge
+
+Input :[ b ' i t '   b ' p a y '   b ' f o r '   b ' i t s e l f '   b ' . '   b ' m a k e '   b ' d e e p e r '   b ' e m o t i o n a l ' 
+   b ' b o n d s '   b ' w i t h '   b ' f r i e n d s '   b ' i n '   b ' f e b r u a r y '   b ' . '   b ' l o v e '   b ' a n d ' 
+   b ' h a p p y '   b ' s u r p r i s e s '   b ' w i l l '   b ' f i l l ' ]
+Target:your
+predicted word :the
+
+whatever you keep inside due to fear of ridicule or exposure will surface eventually . you will find however that shocks and let that nobody contains , take care of yourself , but possible to be a good time .
+a dispute that has dragged on far too long must be resolved this weekend . make an effort to see some action . be strong , but though boredom and useful , boisterous , and you may be tempted to
+let people into your life and they will take you good places ! $ today 's aspect is not always to be delayed . you may have to be treated choices , but forget how much . $ be respectful and let , and do not fritter the new routine or a smile
+today you may expect an unexpected chance to be overseas . you will not neglect a lot of adventure , get a lot , get to
+your daily routine can be a great source of pleasure and discoveries this year if you can sit still long . the planets small image will be craving the gap between you and eliciting , and leave interesting about your emotions . $ today is probably you are worried to be fully progress . the planets and you 're surrounded to you to get a little rattled , but you will find to be taking the gap between you and eliciting your own insights . $ you 're probably to be perfectly stuck the thought you accept yourself physically mightily . the dog one incredibly routine , but it is essentially , but you need to be acknowledged . it 's a great day to be a great deal of strict safety . $ the roller of the planets could be a great deal of vulnerability power , and you may be tempted to get a little rattled and sensitive . $ you may be tempted to impress to explore the relationship of your malaise . you may not feel like the struggle to satisfy the ball rolling . the planets could be a good time to loosen . you may be tempted to stray a massage point . thus , you may be tempted to quarrel . the day 's most intimate friend 's difficult to be warned . $ you may be a chance to be outrageous and apt , and you will be able to guess that the lack of available enhances your reach . $ today 's transit may be stern and let to break up the internet organization you will be learning to be successful . there is no one important of the planets is you afraid to be smiling up the unknown 's keeper energy leaves you can be laid . the fact is probably said you will not be able to get a break to dominate , but though the kinds one inner issues point a day . you may be tempted to impress . $ the current astral energy may be flagging you to get a little rattled in the first month . in november and october , and be bold and confident in april and april . april and april and april and april and april and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and april and april and november and april and
+
+*** EPOCH 46 ***
+Input :[ b ' ! '   b ' h u g o l e m e c h a n t '   b ' y o u r '   b ' d r e a m s '   b ' o f '   b ' a '   b ' b e t t e r '   b ' w o r l d ' 
+   b ' w i l l '   b ' s e e m '   b ' c r y s t a l '   b ' c l e a r '   b ' w h i l e '   b ' t h e '   b ' f a v o r a b l e ' 
+   b ' p l a n e t a r y '   b ' a l i g n m e n t '   b ' l a s t s '   b ' . '   b ' b a l a n c e ' ]
+Target:your
+predicted word :your
+
+Input :[ b ' m e m b e r s '   b ' w i l l '   b ' b e '   b ' c o m i n g '   b ' a n d '   b ' g o i n g '   b ' , '   b ' s l a m m i n g ' 
+   b ' d o o r s '   b ' , '   b ' a s k i n g '   b ' q u e s t i o n s '   b ' , '   b ' b r i n g i n g '   b ' t h e i r '   b ' f r i e n d s ' 
+   b ' i n '   b ' . '   b ' i f '   b ' y o u ' ]
+Target:'re
+predicted word :are
+
+Input :[ b ' i t '   b " ' s "   b ' n o t '   b ' w h a t '   b ' y o u '   b ' s a y '   b ' , '   b ' b u t '   b ' r a t h e r '   b ' w h a t ' 
+   b ' y o u '   b ' d o '   b ' t h a t '   b ' m a t t e r s '   b ' - '   b ' s o '   b ' i f '   b ' y o u '   b ' w a n t '   b ' t o ' ]
+Target:go
+predicted word :be
+
+Input :[ b ' y o u r '   b ' p e r s p e c t i v e '   b ' a b o u t '   b ' l i f e '   b ' , '   b ' w h i c h '   b ' c a n '   b ' o t h e r w i s e ' 
+   b ' b e c o m e '   b ' o b t u s e '   b ' a n d '   b ' s l i g h t l y '   b ' p e s s i m i s t i c '   b ' i f '   b ' y o u '   b ' a r e ' 
+   b ' n o t '   b ' c a r e f u l '   b ' . '   b ' e n j o y ' ]
+Target:yourself
+predicted word :your
+
+Input :[ b ' . '   b ' b e '   b ' b o l d '   b ' b u t '   b ' n o t '   b ' r e c k l e s s '   b ' i n '   b ' a p r i l '   b ' a n d '   b ' m a y ' 
+   b ' . '   b ' w a t c h '   b ' t h e '   b ' b u d g e t '   b ' i n '   b ' a u g u s t '   b ' a n d '   b ' p a r t i c i p a t e ' 
+   b ' i n '   b ' c o m m u n i t y ' ]
+Target:generosity
+predicted word :generosity
+
+Input :[ b ' . '   b ' y o u '   b ' k n o w '   b ' t h a t '   b ' y o u r '   b ' s e n s i t i v e '   b ' n a t u r e '   b ' n e e d s '   b ' t o ' 
+   b ' b e '   b ' t a k e n '   b ' c a r e '   b ' o f '   b ' e s p e c i a l l y '   b ' w e l l '   b ' i n '   b ' t i m e s '   b ' o f ' 
+   b ' s t r e s s '   b ' . ' ]
+Target:do
+predicted word :you
+
+Input :[ b ' a n d '   b ' j u l y '   b ' . '   b ' b e '   b ' r e a l i s t i c '   b ' a n d '   b ' p l a n '   b ' a c c o r d i n g l y '   b ' . ' 
+   b ' l e t '   b ' f r i e n d s '   b ' p u r s u e '   b ' f a n t a s i e s '   b ' i n '   b ' f e b r u a r y '   b ' . '   b ' y o u ' 
+   b ' m a y '   b ' n o t '   b ' w a n t ' ]
+Target:to
+predicted word :to
+
+Input :[ b ' i t '   b ' c o m e s '   b ' t o '   b ' w o r k i n g '   b ' t o g e t h e r '   b ' t o '   b ' s o l v e '   b ' a ' 
+   b ' m y s t e r y '   b ' , '   b ' w e '   b ' e a s i l y '   b ' c o m b i n e '   b ' f o r c e s '   b ' . '   b ' i n d u l g e ' 
+   b ' y o u r '   b ' s e n s e '   b ' o f '   b ' m y s t e r y ' ]
+Target:in
+predicted word :.
+
+Input :[ b ' s o '   b ' w o r k '   b ' h a r d '   b ' a n d '   b ' d o '   b ' n o t '   b ' g i v e '   b ' i t '   b ' a l l '   b ' a w a y ' 
+   b ' . '   b ' c o m p l e t e '   b ' a '   b ' b i g '   b ' p r o j e c t '   b ' a t '   b ' h o m e '   b ' a p r i l '   b ' a n d ' 
+   b ' m a y ' ]
+Target:and
+predicted word :and
+
+Input :[ b ' n o r m a l l y '   b ' c o n s i d e r e d '   b ' . '   b ' y o u '   b ' n e e d '   b ' t o '   b ' t r e a d '   b ' w a r i l y ' 
+   b ' - '   b ' t h i n g s '   b ' m a y '   b ' n o t '   b ' b e '   b ' a s '   b ' t h e y '   b ' s e e m '   b ' . '   b ' a l t h o u g h ' 
+   b ' t h i s '   b ' p e r s o n ' ]
+Target:may
+predicted word :is
+
+whatever you keep inside due to fear of ridicule or exposure will surface eventually . you will find however that you are not careful . $ you are not careful to loosen your emotions . this is a day that
+a dispute that has dragged on far too long must be resolved this weekend . make an effort to see acquire you to your own insights . $ you may be surprised wonder to your body . $ you are
+let people into your life and they will take you good places ! $ today 's aspect is not you are . the drive to take a new idea to make a salad of than your latest relationship . you have the resources for you are not careful . $ you are not
+today you may expect an unexpected chance to be overseas . you will find to look to her act . be careful and courageous , loved
+your daily routine can be a great source of pleasure and discoveries this year if you can sit still long done . $ you may be surprised particularly about your emotions . this is a day that you alienate to figure different time . you may be tempted to stray a step decision . give sure you stand and separate your strength of your life . this is a message to take a break point effects into your fingers emotions . this is a message to take your own insights . $ you have the resources of your body is not altered by you will find to be outrageous again to make it . echinacea people . you will not be able to be warned . this is a message to take your own insights . $ you have the resources of your body is not altered by you will find to be outrageous again to make it . echinacea people . you will not be able to be warned . this is a message to take your own insights . $ you have the resources of your body is not altered by you will find to be outrageous again to make it . echinacea people . you will not be able to be warned . this is a message to take your own insights . $ you have the resources of your body is not altered by you will find to be outrageous again to make it . echinacea people . you will not be able to be warned . this is a message to take your own insights . $ you have the resources of your body is not altered by you will find to be outrageous again to make it . echinacea people . you will not be able to be warned . this is a message to take your own insights . $ you have the resources of your body is not altered by you will find to be outrageous again to make it . echinacea people . you will not be able to be warned . this is a message to take your own insights . $ you have the resources of your body is not altered by you will find to be outrageous again to make it . echinacea people . you will not be able to be warned . this is a message to take your own insights . $ you have the resources of your body is not altered by you will find to be outrageous again to make it . echinacea people . you will not be able to be warned . this is a message to take your own insights . $ you have the resources of your body is not altered by you will find to be outrageous again to make it . echinacea people . you will not be able to be warned . this is a message to take your own insights . $ you have the resources of your body is not altered by you will find to be outrageous again to make it . echinacea people . you will not be able to be warned . this is a message to take your own insights . $ you have the resources of your body is not altered by you will find to be outrageous again to make it . echinacea people . you will not be able to be warned . this is a message to take your own insights . $ you have the resources of your body is not altered by you will find to be outrageous again to make it . echinacea people . you will not be able to be warned
+
+*** EPOCH 47 ***
+Input :[ b ' c u r r e n t l y '   b ' i n v o l v e d '   b ' w i t h '   b ' g r o u p s '   b ' d e a l i n g '   b ' w i t h '   b ' t h e s e ' 
+   b ' i s s u e s '   b ' , '   b ' y o u '   b ' m i g h t '   b ' c o n s i d e r '   b ' j o i n i n g '   b ' o n e '   b ' . '   b ' a ' 
+   b ' r e c e n t '   b ' i n c r e a s e '   b ' i n '   b ' i n c o m e ' ]
+Target:might
+predicted word :,
+
+Input :[ b ' m a k e '   b ' y o u r '   b ' c a r e e r '   b ' g l o w '   b ' w i t h '   b ' s u c c e s s '   b ' t h i s '   b ' y e a r ' 
+   b ' o r '   b ' y o u '   b ' c a n '   b ' m a k e '   b ' a '   b ' s h i f t '   b ' t o '   b ' s o m e t h i n g '   b ' n e w '   b ' ! ' 
+   b ' y o u '   b ' a r e ' ]
+Target:most
+predicted word :not
+
+Input :[ b ' e m o t i o n s '   b ' a r e '   b ' s t a b l e '   b ' f o r '   b ' n o w '   b ' , '   b ' a f f o r d i n g '   b ' y o u '   b ' a ' 
+   b ' c h a n c e '   b ' t o '   b ' s t e p '   b ' b a c k '   b ' a n d '   b ' e v a l u a t e '   b ' h o w '   b ' y o u '   b " ' v e " 
+   b ' b e e n '   b ' t r e a t i n g ' ]
+Target:yourself
+predicted word :your
+
+Input :[ b ' f e e l i n g '   b ' r a t h e r '   b ' c o n s e r v a t i v e '   b ' a n d '   b ' t h i s '   b ' i s '   b ' f i n e '   b ' . ' 
+   b ' a '   b ' c a u t i o u s '   b ' a t t i t u d e '   b ' w i l l '   b ' s e r v e '   b ' y o u '   b ' w e l l '   b ' . '   b ' b e ' 
+   b ' t h e '   b ' d e f e n s i v e '   b ' d r i v e r ' ]
+Target:in
+predicted word :to
+
+Input :[ b ' e n c o u r a g e s '   b ' y o u '   b ' t o '   b ' g o '   b ' t h a t '   b ' l i t t l e '   b ' b i t '   b ' f u r t h e r ' 
+   b ' a n d '   b ' b e '   b ' j u s t '   b ' a '   b ' b i t '   b ' m o r e '   b ' d a r i n g '   b ' . '   b ' g e t '   b ' o f f ' 
+   b ' t h a t '   b ' c o u c h ' ]
+Target:,
+predicted word :,
+
+Input :[ b ' w i t h '   b ' b u i l t '   b ' - '   b ' i n '   b ' c o m f o r t s '   b ' a n d '   b ' f a v o r i t e '   b ' p e r k s '   b ' . ' 
+   b ' t h e '   b ' l a s t '   b ' m o n t h '   b ' i s '   b ' a n o t h e r '   b ' r e w a r d '   b ' , '   b ' f u l l '   b ' o f ' 
+   b ' l o v e '   b ' , ' ]
+Target:generosity
+predicted word :neighbors
+
+Input :[ b ' b e '   b ' s w e a r i n g '   b ' t h a t '   b ' w h e n '   b ' y o u '   b ' g e t '   b ' o u t '   b ' o f '   b ' t h i s ' 
+   b ' p r e d i c a m e n t '   b ' , '   b ' y o u '   b ' w i l l '   b ' n e v e r '   b ' c o m e '   b ' t h i s '   b ' w a y ' 
+   b ' a g a i n '   b ' . '   b ' t a k e ' ]
+Target:heart
+predicted word :the
+
+Input :[ b ' y e s '   b ' , '   b ' d r e a m '   b ' t h e n '   b ' p l a n '   b ' w i s e l y '   b ' . '   b ' t h e '   b ' b u s i e s t ' 
+   b ' m o n t h s '   b ' m a y '   b ' b e '   b ' t h e '   b ' f i r s t '   b ' t h r e e '   b ' , '   b ' s o '   b ' a c t ' 
+   b ' r i g h t '   b ' a w a y ' ]
+Target:.
+predicted word :.
+
+Input :[ b ' w i l l '   b ' l o v e '   b ' y o u '   b ' o n '   b ' s i g h t '   b ' , '   b ' a n d '   b ' t h a t '   b ' s p e c i a l ' 
+   b ' s o m e o n e '   b ' w i l l '   b ' n o t '   b ' b e '   b ' a b l e '   b ' t o '   b ' d o '   b ' e n o u g h '   b ' t o ' 
+   b ' m a k e '   b ' y o u ' ]
+Target:happy
+predicted word :prepared
+
+Input :[ b ' t h e y '   b ' w i l l '   b ' n o t '   b ' a l l '   b ' b e '   b ' n e e d y '   b ' - '   b ' s o m e '   b ' w i l l '   b ' h a v e ' 
+   b ' c o m f o r t '   b ' t o '   b ' o f f e r '   b ' y o u '   b ' . '   b ' s o m e o n e '   b ' m a y '   b ' a p p r e c i a t e ' 
+   b ' a '   b ' c h a n g e ' ]
+Target:in
+predicted word :that
+
+whatever you keep inside due to fear of ridicule or exposure will surface eventually . you will find however that shocks . the day 's energy you may have to be treated choices . $ you are not careful to
+a dispute that has dragged on far too long must be resolved this weekend . make an effort to see acquire you to explore your awareness . you may feel like retreating and a bit of sparkling , and you
+let people into your life and they will take you good places ! $ you are not careful to loosen conform to your own insights . $ you may be surprised wonder to earth , you will not be able to guess that you are not careful . $ you are not careful
+today you may expect an unexpected chance to get thrown from a very upscale business will get equally telling did be enhanced . $ you 're
+your daily routine can be a great source of pleasure and discoveries this year if you can sit still long done . $ you may feel that you have the most piece influence to thrive your way . $ you may feel that you are capable pent the pieces online or toe , and you will not chase and resist to recreate your batteries . you may feel like retreating and see that you are not careful . $ you are not careful to loosen your situation . this can not be a powerfully point step or certain of your life . $ you may feel that you have the time to take a walk waters . this can be frustrating of your life immeasurably . you must be involved either a monologue schedule . you may be tempted to talk that you please your oversensitivity . $ you have the resources of intimacy and talk that you can delay to get a little rattled instrument . take your own self and toe . you will navigate your energy . the table . $ you understand to get bent with the next of drinking around you . $ you are not careful to get a little rattled instrument . the fact you feel like retreating , capricorn . you may feel like retreating and method . take advantage to talk that the lack of discontent and lovers and confidence . you may have moments and expensive things , and possibly care about you in august . be strong and sensible tide or a tendency and guidance behavior and artistic associates and yes . in april brings you may have a bit of water in february , you may crave your dreams . be more proactive , loved in october . be patient and lovely , loved in february and work , in march tone year ! $ the best times may be bigger to work . be a central atmosphere . a private environment , which you may feel that you can be laid . you will find to explain your own drumbeat , capricorn , or high energy and encouraging that you can be laid . you will find to be outrageous and lazy , and you may crave your emotions . be careful and bright , and fun , too than you believing . $ you may feel like retreating and usual , and a powerful time to make a rebuttal situation . you may feel like retreating and a lot of unconscious or your own reason . $ you may feel like expressing your partner or well , and you will feel encouraged to you . $ you are not careful to loosen your situation . this can not be a powerfully point step or certain of your life . $ you may feel that you have the time to take a walk waters . this can be frustrating of your life immeasurably . you must be involved either a monologue schedule . you may be tempted to talk that you please your oversensitivity . $ you have the resources of intimacy and talk that you can delay to get a little rattled instrument . take your own self and toe . you will navigate your energy . the table . $ you understand to get bent with the next of drinking around you . $ you are not careful to get a little rattled instrument . the fact you feel like retreating , capricorn . you may feel like retreating and method . take advantage to talk that the lack of discontent and lovers and confidence . you may have moments and expensive things , and
+
+*** EPOCH 48 ***
+Input :[ b ' l o o k i n g '   b ' f o r '   b ' r o m a n c e '   b ' , '   b ' t h e n '   b ' y o u '   b ' m a y '   b ' g e t '   b ' m o r e ' 
+   b ' t h a n '   b ' y o u '   b ' b a r g a i n e d '   b ' f o r '   b ' t o d a y '   b ' w h e n '   b ' y o u '   b ' a t t e n d ' 
+   b ' t h a t '   b ' f a n c y '   b ' p a r t y ' ]
+Target:.
+predicted word :.
+
+Input :[ b ' l o v e d '   b ' i n '   b ' a '   b ' b o l d e r '   b ' a n d '   b ' m o r e '   b ' v o c a l '   b ' w a y '   b ' i n ' 
+   b ' m a r c h '   b ' . '   b ' d i s a g r e e m e n t s '   b ' s h o u l d '   b ' n o t '   b ' b e '   b ' n e c e s s a r y '   b ' . ' 
+   b ' e v e n '   b ' y o u '   b ' s h o u l d ' ]
+Target:notice
+predicted word :retain
+
+Input :[ b ' l a t e '   b ' . '   b ' b e '   b ' b o l d '   b ' a n d '   b ' b e '   b ' o p e n '   b ' t o '   b ' n e w ' 
+   b ' o p p o r t u n i t i e s '   b ' , '   b ' a s '   b ' t h e y '   b ' m a y '   b ' w e l l '   b ' l e a d '   b ' t o '   b ' s o m e ' 
+   b ' f a b u l o u s '   b ' n e w ' ]
+Target:connections
+predicted word :connections
+
+Input :[ b ' t o '   b ' m o v e '   b ' f a s t e r '   b ' t h a n '   b ' y o u '   b " ' d "   b ' l i k e '   b ' . '   b ' b e '   b ' c l e a r ' 
+   b ' a n d '   b ' s e e '   b ' h o w '   b ' i t '   b ' g o e s '   b ' . '   b ' f e b r u a r y '   b ' s h i n e s '   b ' w i t h ' 
+   b ' f r i e n d s ' ]
+Target:,
+predicted word :and
+
+Input :[ b ' i n '   b ' y o u r '   b ' b o d y '   b ' t h a n '   b ' y o u r '   b ' s o m e t i m e s '   b ' - '   b ' o v e r w h e l m i n g ' 
+   b ' e m o t i o n s '   b ' . '   b ' t o '   b ' e n h a n c e '   b ' t h i s '   b ' e x p e r i e n c e '   b ' , '   b ' b e ' 
+   b ' s u r e '   b ' t o '   b ' g e t '   b ' r e g u l a r ' ]
+Target:exercise
+predicted word :exercise
+
+Input :[ b ' e m o t i o n a l l y '   b ' e x c i t i n g '   b ' y e a r '   b ' ! '   b ' h u g o l e m e c h a n t '   b ' b e ' 
+   b ' e n e r g i z e d '   b ' a n d '   b ' s e r i o u s '   b ' a b o u t '   b ' a l l '   b ' y o u '   b ' d o '   b ' t h i s ' 
+   b ' y e a r '   b ' ! '   b ' t h a t '   b ' i n c l u d e s '   b ' h a v i n g '   b ' f u n ' ]
+Target:.
+predicted word :and
+
+Input :[ b ' n o t '   b ' b e '   b ' w h o l e '   b ' i f '   b ' y o u '   b ' h a d '   b ' t o '   b ' s p e n d '   b ' i t '   b ' a l o n e ' 
+   b ' . '   b ' h u g o l e m e c h a n t '   b ' o n e '   b ' o f '   b ' t h e '   b ' b e s t '   b ' w a y s '   b ' t o ' 
+   b ' i m p r o v e '   b ' y o u r ' ]
+Target:health
+predicted word :health
+
+Input :[ b ' t h e '   b ' w h o l e '   b ' m o n t h '   b " ' s "   b ' b u d g e t '   b ' i f '   b ' y o u '   b " ' r e "   b ' n o t ' 
+   b ' c a r e f u l '   b ' . '   b ' r e c o v e r '   b ' i n '   b ' c o m f o r t '   b ' a t '   b ' h o m e '   b ' d u r i n g ' 
+   b ' f e b r u a r y '   b ' a n d '   b ' m a r c h ' ]
+Target:.
+predicted word :.
+
+Input :[ b ' a n d '   b ' f u n '   b ' t i m e '   b ' w h e n '   b ' p e o p l e '   b ' w a n t '   b ' t o '   b ' b e '   b ' a n d '   b ' b e ' 
+   b ' s e e n '   b ' w i t h '   b ' y o u '   b ' . '   b ' m a k e '   b ' c o n t a c t s '   b ' t h a t '   b ' c a n '   b ' b e n e f i t ' 
+   b ' y o u ' ]
+Target:later
+predicted word :undertake
+
+Input :[ b ' p o s i t i o n s '   b ' t o '   b ' f o c u s '   b ' o n '   b ' . '   b ' i t '   b ' n e e d s '   b ' t o '   b ' b e ' 
+   b ' a b o u t '   b ' y o u r '   b ' o w n '   b ' f o c u s '   b ' a n d '   b ' c o n c e n t r a t i o n '   b ' . ' 
+   b ' h u g o l e m e c h a n t '   b ' y o u r '   b ' p o w e r s '   b ' o f ' ]
+Target:communication
+predicted word :forethought
+
+whatever you keep inside due to fear of ridicule or exposure will surface eventually . you will find however that shocks . the first two months if you have arranged away in the opening few months . ah provide your
+a dispute that has dragged on far too long must be resolved this weekend . make an effort to see acquire you to explore your way . $ you may feel that you have the tools and centered between .
+let people into your life and they will take you good places ! $ today 's aspect is not you are currently for you . you have the answer to take some risks to tell . you will find to be outrageous . $ you have the quality of forethought and duty ,
+today you may expect an unexpected chance to take the other opposition . $ you have the resources of your mind are need to fight .
+your daily routine can be a great source of pleasure and discoveries this year if you can sit still long . the planets could be better to rely good logical to heighten . in fact you are looking to impress . there 's no reason to your partner or try to incorporate your lymphatic system possess . share drive to your own situation . $ you may feel that you have longed to spread your impressions . if you are preparing in finding realms . $ you may feel that you have the tools and ears holes and intervene . $ today 's astral energy leaves you are not craving about you . the first two months if you have arranged away in the opening few months . ah provide your digestive . august is sign a little of water in february . the second month mellows with flamboyant encounters advancement may come not be ready . july , and you have a clever , congenial year ! $ crazy hard in april . remember you have a scare that thrilling with your favorite friends . june lets you to see things resolve . the last month rocks places months and loving , and loving ones well ! $ it 's a magnificent year year ! $ your mind might be a bit of purification acts places , and the year ! $ your mind can be wasted up from the first month , and you can be boring with your life . $ you may feel well in february . in january and february , and be look to face a major environment model in december . the unexpected of the year , and love and friendship , schedule , when may fizzle know you will have . $ crazy gets in february . enjoy , doubt , and solid things ) and find more conservative in april . the second month 's end . show , you can be able to achieve your life in february . in august and february is busy and loving examples , prominent form ! $ yes you have a bit of rest ! $ a friend may inspire to analyze your credibility of your combined and try . creativity , and even refuse to pure on . $ you may be a good time to lay . there 's transit to be ignored in the first couple . in april and june is a private , job side . august , and you 're have to face . respond politely . july and march , and save old available of your life are yours . year , and friends and family concern . enjoy some intellectual , consideration regarding . the year 's end ! $ your feet may be a source of view of love , and rightly your favorite online . but you have seen away in the other path . $ today 's aspect of the planets may be flagging to you . your mind may also realize to take a break up in your life . if you have been wrestling up . $ today is an example transit that is favorable to be a passing picture decision to take a walk waters . the fact is conditioned for yourself . take your own drumbeat responsibility . $ you may feel that you have the time to take a walk waters . there 's no downside of your life is not you realize . $ you are feeling off in the first month . if you have seen for a joiner or your favorite efforts to understand that budget , and be smart and responsible . respond politely
+
+*** EPOCH 49 ***
+Input :[ b ' t h e '   b ' l i n e '   b ' y o u '   b ' h a v e '   b ' b e e n '   b ' p u t t i n g '   b ' o f f '   b ' a '   b ' v i t a l ' 
+   b ' d e c i s i o n '   b ' c o n c e r n i n g '   b ' y o u r '   b ' l o v e '   b ' l i f e '   b ' . '   b ' b u t '   b ' a f t e r ' 
+   b ' t o d a y '   b " ' s "   b ' e v e n t s ' ]
+Target:,
+predicted word :of
+
+Input :[ b ' , '   b ' e x p r e s s '   b ' t h i s '   b ' a n d '   b ' s e e '   b ' w h a t '   b ' m i g h t '   b ' b e '   b ' c h a n g e d ' 
+   b ' . '   b ' d r e a m '   b ' o f '   b ' f a r '   b ' - '   b ' o f f '   b ' p l a c e s '   b ' a n d '   b ' a d v e n t u r e s ' 
+   b ' i n '   b ' f e b r u a r y ' ]
+Target:.
+predicted word :.
+
+Input :[ b ' o n t o '   b ' a '   b ' w i n n i n g '   b ' m e t h o d '   b ' , '   b ' a n d '   b ' t h e y '   b ' w i l l '   b ' n e v e r ' 
+   b ' f o r g e t '   b ' t h i s '   b ' a w e s o m e '   b ' e x p e r i e n c e '   b ' . '   b ' y o u '   b ' m a y '   b ' w e l l ' 
+   b ' g e t '   b ' t h e '   b ' o f f e r ' ]
+Target:you
+predicted word :to
+
+Input :[ b ' d e c i s i o n '   b ' . '   b ' a i d '   b ' i n '   b ' t h i s '   b ' p r o c e s s '   b ' b y '   b ' r e v e a l i n g ' 
+   b ' y o u r '   b ' p e r s p e c t i v e '   b ' . '   b ' h u g o l e m e c h a n t '   b ' y o u r '   b ' t h i n '   b ' s k i n ' 
+   b ' f e e l s '   b ' e v e n '   b ' t h i n n e r '   b ' t h a n '   b ' u s u a l ' ]
+Target:today
+predicted word :and
+
+Input :[ b " ' v e "   b ' b e e n '   b ' d o i n g '   b ' . '   b ' t h e r e '   b ' m a y '   b ' a l s o '   b ' b e '   b ' f u n '   b ' w i t h ' 
+   b ' f a m i l y '   b ' o r '   b ' a n '   b ' u n e x p e c t e d '   b ' v i s i t '   b ' f r o m '   b ' a n '   b ' o l d ' 
+   b ' f r i e n d '   b ' . ' ]
+Target:a
+predicted word :the
+
+Input :[ b ' l i n e s '   b ' o f '   b ' c o m m u n i c a t i o n '   b ' o p e n '   b ' b e t w e e n '   b ' y o u '   b ' a n d '   b ' t h i s ' 
+   b ' p e r s o n '   b ' s o '   b ' t h a t '   b ' y o u '   b ' c a n '   b ' b o t h '   b ' b e n e f i t '   b ' f r o m '   b ' e a c h ' 
+   b ' o t h e r '   b " ' s "   b ' p e r s p e c t i v e ' ]
+Target:of
+predicted word :,
+
+Input :[ b ' b r i e f l y '   b ' a r i s e '   b ' i n '   b ' o c t o b e r '   b ' , '   b ' b u t '   b ' t a c t '   b ' a n d '   b ' c l e a r ' 
+   b ' t h i n k i n g '   b ' m a k e '   b ' a l l '   b ' s m o o t h '   b ' a g a i n '   b ' . '   b ' h o m e '   b ' a f f a i r s ' 
+   b ' d e s e r v e '   b ' a t t e n t i o n '   b ' i n ' ]
+Target:november
+predicted word :march
+
+Input :[ b ' w a t e r '   b ' , '   b ' p r e f e r a b l y '   b ' a t '   b ' r o o m '   b ' t e m p e r a t u r e '   b ' . ' 
+   b ' h u g o l e m e c h a n t '   b ' s a y i n g '   b ' w h a t '   b ' y o u '   b ' m e a n '   b ' i s '   b ' g o i n g '   b ' t o ' 
+   b ' s e e m '   b ' m u c h '   b ' e a s i e r '   b ' t o d a y '   b ' . ' ]
+Target:your
+predicted word :the
+
+Input :[ b ' , '   b ' b u t '   b ' b e c a u s e '   b ' t h e y '   b ' w a n t '   b ' y o u '   b ' t o '   b ' . '   b ' t h i s ' 
+   b ' n a t u r a l l y '   b ' i s '   b ' c a u s i n g '   b ' y o u '   b ' t o '   b ' f e e l '   b ' r e s e n t f u l '   b ' . ' 
+   b ' y o u '   b ' w i l l '   b ' j u s t ' ]
+Target:have
+predicted word :be
+
+Input :[ b ' j o i n '   b ' a '   b ' g r o u p '   b ' t h a t '   b ' e x e r c i s e s '   b ' r e g u l a r l y '   b ' - '   b ' a ' 
+   b ' v i r t u a l '   b ' t e a m '   b ' o r '   b ' a '   b ' c l a s s '   b ' o f '   b ' s o m e '   b ' s o r t '   b ' . '   b ' t h i s ' 
+   b ' w i l l '   b ' k e e p ' ]
+Target:you
+predicted word :you
+
+whatever you keep inside due to fear of ridicule or exposure will surface eventually . you will find however that shocks . the day 's astral energy leaves you can be involved ill greedy . are neglected , congenial ,
+a dispute that has dragged on far too long must be resolved this weekend . make an effort to see acquire you to a wider commitment to sense to intimacy tendencies or romance , and rightly your own drumbeat may
+let people into your life and they will take you good places ! $ today 's aspect is not always to be a little things than careful . the fall 's end , do not be afraid . $ be feelings for a day that gives you a chance to fantasize . it
+today you may expect an unexpected chance to accomplish positive to a wider commitment to buy you may have have a bit of unconscious or the
+your daily routine can be a great source of pleasure and discoveries this year if you can sit still long . the planets day of planning that makes you feel to be though the struggle of the world . spirit , you will yearn to harboring and reflect your own drumbeat may also she is persistent , and you may feel that you 're using you through your regular life . if you have the resources for you thought have having trouble to dominate . $ you may feel that you have the tools and centered between you . the day are had , take a break up . $ today is one cares of energy regimen may tend to send you a proposal of yourself . $ you may feel some urgency to the flashes . spirit communications and have more mindful from the first month , and likewise to slow integrate you to figure different time . be sweet and income . it 's aspects of your favor and let . $ you may feel some urgency to your body . $ you may feel that you have the tools and centered between you and you prefer . it 's good of those rumors you 're about the wrong impression . $ you may feel that you have the norm to suffering that you are not careful . it 's a good day to take a step to tell . you will be able to counsel . listen to do and do and patch on the next few of your malaise . you may feel like retreating and method . august is busy and loving love . it 's a great bit of fun , fun year could be shy heads and a sport , and even guard . the last month could be useful and energetic , and even charming and content in february and march . be popular and productive comforting love . regardless your own life . the last month may bring you in april and april . relax in loving and happiest and packed times with fun and friendship expenses may be bigger for yourself and irritable . if you have the answer . the last two months add your life . be smart and confident to be sympathetic . it 's aspects , nail your own insights . you may be tempted to stray up the ground of your life . $ you may feel that you have the norm to suffering that you are not careful to loosen . you may have to cloud out of our boundaries stolen and brimstone and new areas of your malaise . you will find to be perfectly acquainted . the fact someone will certainly flourish to impress . $ today 's astral energy leaves you are actually to be collapsing . the goings , you may feel like expressing your partner or a walk of your malaise . you may have to mention a bit of positive around you . $ you may feel that you have . the last date could be a good time to loosen . the sparks to throw up the she . $ today 's transit may be flagging to your good of text . $ you may be a good time to loosen . the same downside is not actually . you will find to be outrageous . do it . $ you may feel that you have the norm to suffering that you are not careful . it 's a good day to take a step to tell . you will be able to counsel . listen to do and do and patch on the next few of
+
+*** EPOCH 50 ***
+Input :[ b ' i f '   b ' y o u '   b ' c h o o s e '   b ' t o '   b ' s l o w '   b ' d o w n '   b ' a n d '   b ' g o '   b ' e a s y '   b ' . ' 
+   b ' y o u '   b ' g e t '   b ' t o '   b ' r e l a x '   b ' , '   b ' t o o '   b ' ! '   b ' a f t e r '   b ' a '   b ' s l i g h t l y ' ]
+Target:busy
+predicted word :year
+
+Input :[ b ' d i f f i c u l t '   b ' f o r '   b ' s o m e '   b ' . '   b ' i t '   b ' t a k e s '   b ' t i m e '   b ' a n d ' 
+   b ' p r a c t i c e '   b ' t o '   b ' c u l t i v a t e '   b ' t h e '   b ' h a b i t '   b ' . '   b ' h e r e '   b ' a r e ' 
+   b ' s o m e '   b ' t i p s '   b ' : '   b ' a d d ' ]
+Target:fresh
+predicted word :your
+
+Input :[ b ' , '   b ' p e r h a p s '   b ' t o '   b ' g e t '   b ' y o u r '   b ' h e a d s '   b ' t o g e t h e r '   b ' a n d '   b ' b o o k ' 
+   b ' a '   b ' v a c a t i o n '   b ' s o m e w h e r e '   b ' f a r '   b ' f r o m '   b ' t h e '   b ' m a d d i n g '   b ' c r o w d ' 
+   b ' , '   b ' o r '   b ' e v e n ' ]
+Target:to
+predicted word :you
+
+Input :[ b ' m o s t '   b ' o f '   b ' i t '   b ' ! '   b ' h u g o l e m e c h a n t '   b ' e m o t i o n a l l y '   b ' , '   b ' y o u ' 
+   b ' s h o u l d '   b ' b e '   b ' d o i n g '   b ' w e l l '   b ' t o d a y '   b ' , '   b ' l i b r a '   b ' . '   b ' b u t ' 
+   b ' w h e n '   b ' i t '   b ' c o m e s ' ]
+Target:to
+predicted word :to
+
+Input :[ b ' y o u '   b ' a r e '   b ' o r '   b ' w h a t '   b ' y o u '   b " ' r e "   b ' d o i n g '   b ' . '   b ' y o u r ' 
+   b ' c o m m u n i c a t i o n '   b ' a n d '   b ' p e o p l e '   b ' s k i l l s '   b ' m a k e '   b ' y o u '   b ' p o p u l a r ' 
+   b ' f r o m '   b ' t h e '   b ' f i r s t '   b ' m o n t h ' ]
+Target:on
+predicted word :,
+
+Input :[ b ' s p o n t a n e o u s '   b ' t h i s '   b ' e v e n i n g '   b ' c o u l d '   b ' p r o v e '   b ' t o '   b ' b e '   b ' a n ' 
+   b ' e y e '   b ' - '   b ' o p e n e r '   b ' i n '   b ' m o r e '   b ' w a y s '   b ' t h a n '   b ' y o u '   b ' c a n ' 
+   b ' i m a g i n e '   b ' . '   b ' t h e ' ]
+Target:current
+predicted word :first
+
+Input :[ b ' y o u '   b ' a r e '   b ' r e a d y '   b ' t o '   b ' t a k e '   b ' o n '   b ' a '   b ' n e w '   b ' p r o j e c t '   b ' o r ' 
+   b ' m i s s i o n '   b ' . '   b ' t h i n k '   b ' c a r e f u l l y '   b ' b e f o r e '   b ' y o u '   b ' m a k e '   b ' a n y ' 
+   b ' b i g '   b ' c o m m i t m e n t s ' ]
+Target:,
+predicted word :.
+
+Input :[ b ' , '   b ' t h e r e '   b ' i s '   b ' n o n e '   b ' . '   b ' h u g o l e m e c h a n t '   b ' y o u '   b ' m a y '   b ' f e e l ' 
+   b ' a '   b ' b i t '   b ' b l u e '   b ' d u e '   b ' t o '   b ' a '   b ' n a g g i n g '   b ' w e i g h t i n e s s '   b ' t h a t ' 
+   b ' p i n s '   b ' y o u ' ]
+Target:down
+predicted word :and
+
+Input :[ b ' , '   b ' b u t '   b ' b e '   b ' m i n d f u l '   b ' o f '   b ' c h a n g e s '   b ' t o '   b ' c o m e '   b ' . ' 
+   b ' r e s p e c t '   b ' , '   b ' a d m i r a t i o n '   b ' , '   b ' a n d '   b ' l o v e '   b ' a r e '   b ' a l l '   b ' y o u r s ' 
+   b ' t h i s '   b ' y e a r ' ]
+Target:!
+predicted word :.
+
+Input :[ b ' . '   b ' y o u '   b ' d e s e r v e '   b ' i t '   b ' . '   b ' h u g o l e m e c h a n t '   b ' p u t '   b ' y o u r ' 
+   b ' a m b i t i o n '   b ' i n t o '   b ' a c t i o n '   b ' t o d a y '   b ' , '   b ' l i b r a '   b ' . '   b ' t h e '   b ' d a y ' 
+   b " ' s "   b ' p l a n e t a r y '   b ' a s p e c t s ' ]
+Target:should
+predicted word :may
+
+whatever you keep inside due to fear of ridicule or exposure will surface eventually . you will find however that elevates the packaging , the fact you feel like you are . you will find that you 're using you
+a dispute that has dragged on far too long must be resolved this weekend . make an effort to see acquire you to a special situation . $ you may be a hard upsetting to do that the gold two
+let people into your life and they will take you good places ! $ today 's aspect is not the chance to understand your emotions . the planets is drives your hard carried you 're constructive and try to recreate the way of the bag or a week or cucumber , flowers ,
+today you may expect an unexpected chance to be overseas . you may have to be more mindful with a long couple schedule . settle to
+your daily routine can be a great source of pleasure and discoveries this year if you can sit still long done . $ you may feel that you feel like expressing the movies you need to be fully stuck . the violence , you may feel like you 're indeed to be smiling . the current celestial atmosphere , you may be tempted to do and patch the details . $ you may be surprised particularly about a variety approach , sagittarius . you may be tempted to let and patch the details bells and innovative your changeable and actions beyond of your malaise . you may be tempted to extricate your eye . if you are feeling okay . you will not feel encouraged to you to relax . you will find that you 're using you completely wonderful . $ you may be able to be wined and wonderful in the fact of the evening and saying . the day 's present is you may feel like you 're indeed to be collapsing . you feel like you are . you 're like the struggle to your heart . do not be able to be a little things to be the most deals worker or greedy , and intuition , and you may be tempted to extricate your emotions . the last month mellows and sensible but to attract you and see things close and passionate , and fun , and entertainment ! $ a cup year mellows , and be bold and meet a specific of your life life . in april and home in february and august . be popular and loving in april and april and june and april and april and april and april find may feel may be refuse in november . a bold efforts may wake . june ignites with months if possible and outlet booms with january . the last month ! $ be solid and energetic , congenial priorities . june is hold a change near and be busy in february . be quietly and generous , loved in april . in january and april is a private mood affair appraise , or co and affection , and lucky fun , and leave come more of your life and connection . be more important of full of tenderness , and you may feel like doing about you stand and you stand accomplishes the way of your life immeasurably . you may feel that you 're using you down in the results of your life immeasurably . you may feel like retreating and method regimen in february and may and june , tone , but if the brightest but in february shine with a few rest . big of rest months . the last month rocks months shine comfortably in january . be popular , be more noticed . enjoy in april and attract resources , aggressive love interest in january . be realistic popular , prominent form ! $ yes you have a bit times in february , then you 're bursting the daring times . be proactive excessive in july and attract resources , temptations people loves . or casual groups , schedule , phone , sincere friends may be needed to relax . in february and attract resources , smart , and idealistic ) or outright may be misunderstood and sweeter in august . relax in loving times ! $ look considerable progress may occupy you in august . enjoy , phone , and possibly entertainment activities in january . be modest and charming , productive comforting , loved in february . a bold patience treat in january absolutely , and powerful , and sweet fun outings or
+
+*** EPOCH 51 ***
+Input :[ b ' f r o m '   b ' a '   b ' m y s t e r i o u s '   b ' i n n e r '   b ' s o u r c e '   b ' , '   b ' o r '   b ' a t '   b ' l e a s t ' 
+   b ' t h a t '   b " ' s "   b ' h o w '   b ' o t h e r s '   b ' m a y '   b ' p e r c e i v e '   b ' i t '   b ' . '   b ' y o u ' 
+   b ' m a y '   b ' n o t ' ]
+Target:exactly
+predicted word :be
+
+Input :[ b ' . '   b ' h u g o l e m e c h a n t '   b ' s o m e o n e '   b ' w i l l '   b ' h a v e '   b ' a '   b ' s t r o n g ' 
+   b ' e m o t i o n a l '   b ' r e a c t i o n '   b ' t o '   b ' s o m e t h i n g '   b ' y o u '   b ' s a y '   b ' o r '   b ' d o ' 
+   b ' . '   b ' t h i s '   b ' r e a c t i o n '   b ' i s '   b ' i n a p p r o p r i a t e ' ]
+Target:,
+predicted word :,
+
+Input :[ b ' a '   b ' p r i v a t e '   b ' s u r p r i s e '   b ' o r '   b ' t w o '   b ' a t '   b ' y e a r '   b " ' s "   b ' e n d '   b ' ! ' 
+   b ' h u g o l e m e c h a n t '   b ' a '   b ' s e c r e t '   b ' d e s i r e '   b ' f o r '   b ' s o m e t h i n g '   b ' s p e c i a l ' 
+   b ' c o u l d '   b ' m o t i v a t e '   b ' y o u ' ]
+Target:this
+predicted word :to
+
+Input :[ b ' n o t '   b ' n o t i c e '   b ' , '   b ' a n d '   b ' t h a t '   b " ' s "   b ' l u c k y '   b ' , '   b ' t o o '   b ' . ' 
+   b ' w i t h '   b ' s l i g h t '   b ' e f f o r t '   b ' , '   b ' t h e '   b ' e a r l y '   b ' m o n t h s '   b ' c a n '   b ' b e ' 
+   b ' u n e v e n t f u l ' ]
+Target:,
+predicted word :,
+
+Input :[ b ' a n d '   b ' w h e n '   b ' . '   b ' s t a r t '   b ' a p r i l '   b ' o f f '   b ' o n '   b ' f i r e '   b ' , '   b ' k e e n ' 
+   b ' t o '   b ' t r y '   b ' n e w '   b ' a p p r o a c h e s '   b ' t o '   b ' e v e r y t h i n g '   b ' . '   b ' b e ' 
+   b ' s e n s i b l e '   b ' a n d ' ]
+Target:avoid
+predicted word :avoid
+
+Input :[ b ' l i b r a '   b ' . '   b ' y o u '   b ' m a y '   b ' w a n t '   b ' t o '   b ' s h i f t '   b ' y o u r '   b ' f u n d a m e n t a l ' 
+   b ' o r i e n t a t i o n '   b ' . '   b ' e v e r y '   b ' a r e a '   b ' o f '   b ' y o u r '   b ' l i f e '   b ' w i l l '   b ' b e ' 
+   b ' a f f e c t e d '   b ' b y ' ]
+Target:this
+predicted word :the
+
+Input :[ b ' . '   b ' i f '   b ' y o u '   b " ' r e "   b ' s h y '   b ' , '   b ' i t '   b ' m a y '   b ' b e '   b ' u n c o m f o r t a b l e ' 
+   b ' f o r '   b ' a '   b ' w h i l e '   b ' , '   b ' b u t '   b ' t h e r e '   b ' a r e '   b ' a d v a n t a g e s '   b ' t o '   b ' a ' ]
+Target:high
+predicted word :special
+
+Input :[ b ' i n '   b ' t h a n '   b ' g o i n g '   b ' o u t '   b ' . '   b ' i f '   b ' y o u '   b ' w a n t '   b ' a '   b ' r o m a n t i c ' 
+   b ' p a r t n e r '   b ' t o '   b ' n o t i c e '   b ' h o w '   b ' y o u '   b ' l o o k '   b ' , '   b ' i t '   b ' m i g h t ' 
+   b ' b e ' ]
+Target:a
+predicted word :a
+
+Input :[ b ' s p a c e '   b ' t o '   b ' g e t '   b ' t h e i r '   b ' w o r k '   b ' d o n e '   b ' a s '   b ' w e l l '   b ' . ' 
+   b ' h u g o l e m e c h a n t '   b ' y o u '   b ' f e e l '   b ' a s '   b ' i f '   b ' y o u '   b ' n e e d '   b ' a ' 
+   b ' t r a n s l a t o r '   b ' i n '   b ' o r d e r ' ]
+Target:to
+predicted word :you
+
+Input :[ b ' f i n d '   b ' i t '   b ' a '   b ' l i t t l e '   b ' i m p r a c t i c a l '   b ' , '   b ' w i t h '   b ' n o '   b ' b e a r i n g ' 
+   b ' o n '   b ' r e a l '   b ' p a s s i o n '   b ' . '   b ' w h i l s t '   b ' t h e r e '   b ' m a y '   b ' b e '   b ' a ' 
+   b ' l a c k '   b ' o f ' ]
+Target:earthiness
+predicted word :earthiness
+
+whatever you keep inside due to fear of ridicule or exposure will surface eventually . you will find however that elevates the packaging , the only greater you to get a little rattled up from the plan . be fair
+a dispute that has dragged on far too long must be resolved this weekend . make an effort to see acquire you to a walk . $ you may feel that you feel like doing wants to take a walk
+let people into your life and they will take you good places ! blocked ahead out the house . $ you have the resources of act is not you feel playing by . if you are entertaining and upbeat , the less private environment love in december . another people bright about a
+today you may expect an unexpected chance organizing you 've have pulled the movies you also be afraid to be a lot of unconscious or the
+your daily routine can be a great source of pleasure and discoveries this year if you can sit still long done . the current celestial energy governs to make the challenge of the current breakthrough . you may be able to be acknowledged by the current of the planets may be flagging you to be acknowledged for a walk . $ today you may feel that you feel like doing wants to take a walk . the current celestial atmosphere , you may be tempted to spread the mind of planning acts in the air . you may have a lot of playmates argument to the flashes and revelations , you may be craving from the regular tenets . the planets could be that you were been ok . the current planetary configuration may be to mention a little of positive that you are officially within you to be fully ugly . the goings or another impulse and rough deeply set . you may have been pursuing from the flashes . you may be tempted to stray out the house of study that you feel good again to be collapsing . the lack of drama , you 'll settle the most positive of your malaise . the events of the day you are the quality of the day hours up paths the house of the problem . you may feel guilty times . huge transformation may be to be a rebuttal commitment to sense safe . $ you may be especially that the time to take a walk waters . the planetary alignment at the first two months . regardless yourself a lot of activity energy . the fall may kick out the second months ! $ the last two months shine comfortably in the months . add your energy and confidence . be careful and productive painlessly , but you have the answer to work things . aim yourself a proposal of yourself . $ the current planetary alignment does you be burst the right growth . the current celestial atmosphere of the day , you may be tempted to get a little rattled and sensitive . the current celestial atmosphere means makes to take a walk waters and well the authorities for a party . you may be able to be wined and a fresh resolution scene or . the first planetary energy leaves that 's walking within of your malaise . perhaps you 're unlikely to be smiling with the day . $ you may feel that you feel like doing wants to take a walk . the game few of your malaise . the planetary configuration lasts that you have the chance to take a break up from the other days paths your networking . the current celestial atmosphere , you may be especially that the time to take a walk . it 's important to heed loud with the truth that tension your skin . try to frustration . $ you may be especially that the time to take a walk waters . the planetary alignment at the first two months . regardless yourself a lot of activity energy . the fall may kick out the second months ! $ the last two months shine comfortably in the months . add your energy and confidence . be careful and productive painlessly , but you have the answer to work things . aim yourself a proposal of yourself . $ the current planetary alignment does you be burst the right growth . the current celestial atmosphere of the day , you may be tempted to get a little rattled and sensitive . the current celestial atmosphere means makes to take a walk waters and well the
+
+*** EPOCH 52 ***
+Input :[ b ' b u t '   b ' y o u '   b ' k n o w '   b ' h o w '   b ' t o '   b ' m a k e '   b ' i t '   b ' h a p p e n '   b ' . ' 
+   b ' c l e v e r n e s s '   b ' a n d '   b ' e n e r g y '   b ' a r e '   b ' g i f t s '   b ' t h a t '   b ' s e r v e '   b ' y o u ' 
+   b ' w e l l '   b ' , '   b ' p a r t i c u l a r l y ' ]
+Target:in
+predicted word :in
+
+Input :[ b ' w i l l '   b ' f e e l '   b ' a '   b ' t r e m e n d o u s '   b ' r e l i e f '   b ' . '   b ' h u g o l e m e c h a n t ' 
+   b ' t h e r e '   b ' a r e '   b ' m a n y '   b ' d i f f e r e n t '   b ' e n e r g i e s '   b ' f l y i n g '   b ' b e t w e e n ' 
+   b ' y o u r '   b ' b o s s '   b ' , '   b ' y o u r '   b ' c o '   b ' - ' ]
+Target:workers
+predicted word :workers
+
+Input :[ b ' t h o u g h '   b ' s o m e '   b ' m a y '   b ' n o t '   b ' l a s t '   b ' l o n g '   b ' . '   b ' m o n e y '   b ' o r '   b ' a ' 
+   b ' v a l u a b l e '   b ' a r t i c l e '   b ' m i g h t '   b ' c o m e '   b ' y o u r '   b ' w a y '   b ' i n '   b ' j a n u a r y ' 
+   b ' . '   b ' y o u ' ]
+Target:know
+predicted word :'re
+
+Input :[ b ' y o u '   b ' a n d '   b ' b e f o r e '   b ' y o u '   b ' k n o w '   b ' i t '   b ' , '   b ' a '   b ' p r e c i o u s ' 
+   b ' s e c r e t '   b ' i s '   b ' o u t '   b ' . '   b ' y o u '   b ' w i l l '   b ' f i n d '   b ' y o u r s e l f '   b ' i n ' 
+   b ' h o t '   b ' w a t e r ' ]
+Target:.
+predicted word :.
+
+Input :[ b ' w i s h '   b ' t o '   b ' . '   b ' o t h e r w i s e '   b ' b e '   b ' v e r y '   b ' f i r m '   b ' . ' 
+   b ' h u g o l e m e c h a n t '   b ' t h e '   b ' a l i g n m e n t '   b ' a t '   b ' p l a y '   b ' t o d a y '   b ' g i v e s ' 
+   b ' y o u '   b ' t h e '   b ' i n c e n t i v e '   b ' t o '   b ' m i x ' ]
+Target:and
+predicted word :things
+
+Input :[ b ' t i r e d '   b ' o r '   b ' i t c h y '   b ' . '   b ' t h e r e '   b ' a r e '   b ' b e t t e r '   b ' w a y s '   b ' t o ' 
+   b ' f i n d '   b ' r e l i e f '   b ' . '   b ' u s e '   b ' d e l i c a t e '   b ' e y e '   b ' m o i s t u r i z e r '   b ' f o r ' 
+   b ' t h e '   b ' s k i n '   b ' a r o u n d ' ]
+Target:the
+predicted word :your
+
+Input :[ b ' a '   b ' b a d '   b ' t h i n g '   b ' . '   b ' p l a n t '   b ' y o u r '   b ' f e e t '   b ' f i r m l y '   b ' o n ' 
+   b ' t e r r a '   b ' f i r m a '   b ' . '   b ' t h a t '   b " ' s "   b ' h o w '   b ' y o u '   b ' f i n d '   b ' b a l a n c e ' 
+   b ' a n d '   b ' a t t a i n ' ]
+Target:your
+predicted word :your
+
+Input :[ b ' f i r s t '   b ' m o n t h '   b ' . '   b ' d e c e m b e r '   b ' i g n i t e s '   b ' y o u r '   b ' d r i v e '   b ' t o ' 
+   b ' a c q u i r e '   b ' b e t t e r '   b ' i n c o m e '   b ' a n d '   b ' p o s s e s s i o n s '   b ' . '   b ' w i s h f u l ' 
+   b ' t h i n k i n g '   b ' i n '   b ' f e b r u a r y '   b ' a t t r a c t s '   b ' p e o p l e ' ]
+Target:to
+predicted word :in
+
+Input :[ b ' b e s t '   b ' . '   b ' a l l '   b ' l o v e '   b ' i s '   b ' r e t u r n e d '   b ' i n '   b ' f u l l '   b ' ! ' 
+   b ' h u g o l e m e c h a n t '   b ' e n j o y '   b ' a '   b ' g l a m o r o u s '   b ' y e a r '   b ' w i t h '   b ' g r e a t ' 
+   b ' e n e r g y '   b ' , '   b ' e s p e c i a l l y '   b ' f o r ' ]
+Target:material
+predicted word :possibilities
+
+Input :[ b ' b e n e f i t '   b ' o f '   b ' t h e '   b ' d o u b t '   b ' . '   b ' y o u r '   b ' e m o t i o n s '   b ' m a y '   b ' r u n ' 
+   b ' h i g h '   b ' , '   b ' b u t '   b ' y o u '   b ' s t i l l '   b ' m a y '   b ' h a v e '   b ' t r o u b l e '   b ' c a t c h i n g ' 
+   b ' u p '   b ' w i t h ' ]
+Target:them
+predicted word :the
+
+whatever you keep inside due to fear of ridicule or exposure will surface eventually . you will find however that shocks . the day 's astral energy leaves you are not involved by the lack of your life vocabulary .
+a dispute that has dragged on far too long must be resolved this weekend . make an effort to see acquire you to the extremes . $ you are not careful to be a lot of purification . the wise
+let people into your life and they will take you good places ! blocked ahead . $ you 're probably still tempted to impress . you are striving to frustration . do not neglect room from the results . do not be surprised you 're . do not neglect the offense of the
+today you may expect an unexpected chance to enter the step from the people . $ playing see be plenty of love . $ be bold
+your daily routine can be a great source of pleasure and discoveries this year if you can sit still long done . do not be surprised to your head . if you are able to be wined . the fact reason you will be be trouble to unlock your emotions . $ you are not careful to loosen . you may eat to be treated choices than guessing . the fall 's end . be bold and keep stronger . the last month could see you helpless . be proactive and productive fortune in june . treasure responsibilities in january . the last month are full of fun and exciting times year , tone , you 're jump or see well fun outings and tie food in january . a bold change streak . be popular , generosity , and sweet sweet sweet sweet socially sweet stable socially well in steady focused important you need can be be confuse to overlook . $ do not be afraid to be a little pessimistic job . the cosmos 's planetary configuration may result of the heavenly of temptation to make a difference difficulty of rational to tune in the game minute . make the alternatives of your own life . you may feel like you thought better to be outrageous . the current celestial configuration enables your complete involved 's shots , then why you are preparing to be clear of your own behalf . if you are single aware to do threatens you to relax . breathe your sails . this is a day that you feel like retreating . the goings or another excellent lesson meeting to bring you sleeping from welcoming your own insights . $ you are feeling pent in the day . group frustration may be flagging to your friends . the last month mellows and fun in april and november , you may crave your home and then use you express your foods in favor , and sweet workout year . trivia your steady efforts to understand your emotions . if you are the final . add your enthusiasm . $ you are drawn the positive attitude . you may want to be collapsing with superficial warmth . the day 's present of the day you may have to be able to acknowledge your ailing . try to incorporate your lymphatic system surrounding your body . $ you are not found you manage to talk to figure advantage to pleasant into the unknown . you may be frustrated to take those creative today . if you are preparing the positive judgment of the body . do not overlook your life . if you are entertaining and upbeat , the year closes months could be problems . the last month could slow with friends in january . june buzz you in april . june buzz with friends and march . june are slow dreams in march . june lets you will be shy and patient . be proactive and productive enriched and stable fun . in april and april , phone with june and april , work 's a year 's end of february . the last month shine with the last month ! $ your inner private presence causes . august , and you may crave totally comfortable , though you have the center or connection . the last month could be better to be collapsing . you have the resources for the greater of those years whenever to be collapsing . the goings or another excellent mood could be the alternatives of themselves . $ you are not careful to loosen your sails . this is not a good idea to talk to do everything
+
+*** EPOCH 53 ***
+Input :[ b ' a r e '   b ' i n '   b ' t h e '   b ' p u r s u i t '   b ' o f '   b ' m o n e y '   b ' , '   b ' p o w e r '   b ' , ' 
+   b ' s u c c e s s '   b ' , '   b ' a n d '   b ' r o m a n c e '   b ' . '   b ' t h e r e '   b " ' s "   b ' a '   b ' f i n e ' 
+   b ' l i n e '   b ' b e t w e e n ' ]
+Target:ambition
+predicted word :ambition
+
+Input :[ b ' a p r i l '   b ' , '   b ' y o u '   b ' c a n '   b ' c o p e '   b ' w i t h '   b ' i t '   b ' . '   b ' s p e n d '   b ' t h e ' 
+   b ' l a s t '   b ' m o n t h '   b ' l a v i s h i n g '   b ' a n d '   b ' r e c e i v i n g '   b ' l o v e '   b ' a n d ' 
+   b ' e n c o u r a g e m e n t '   b ' . '   b ' i t ' ]
+Target:'s
+predicted word :'s
+
+Input :[ b ' l i k e '   b ' t a k i n g '   b ' a d v a n t a g e '   b ' o f '   b ' f a v o r a b l e '   b ' c e l e s t i a l ' 
+   b ' a t m o s p h e r e '   b ' t o d a y '   b ' t o '   b ' a t t r a c t '   b ' a '   b ' c e r t a i n '   b ' p e r s o n '   b ' i n t o ' 
+   b ' y o u r '   b ' l i f e '   b ' . '   b ' i f '   b ' y o u '   b ' a r e ' ]
+Target:going
+predicted word :entertaining
+
+Input :[ b ' t h e '   b ' c a l m n e s s '   b ' o f '   b ' a '   b ' s e n s i b l e '   b ' p a r t n e r '   b ' i n '   b ' d e c e m b e r ' 
+   b ' . '   b ' b e '   b ' s m a r t '   b ' a n d '   b ' a m b i t i o u s '   b ' i n '   b ' j a n u a r y '   b ' a n d '   b ' g o ' 
+   b ' f a r '   b ' . '   b ' t h e ' ]
+Target:rest
+predicted word :last
+
+Input :[ b ' , '   b ' y o u '   b ' m a y '   b ' b i t e '   b ' y o u r '   b ' t o n g u e '   b ' a n d '   b ' h o l d '   b ' y o u r ' 
+   b ' a n g e r '   b ' i n s i d e '   b ' . '   b ' t h i s '   b ' i s '   b ' n o t '   b ' a '   b ' h e a l t h y '   b ' t a c t i c ' 
+   b ' . '   b ' y o u ' ]
+Target:are
+predicted word :may
+
+Input :[ b ' l o v e r '   b ' i s '   b ' p r e p a r e d '   b ' t o '   b ' b e '   b ' . '   b ' h u g o l e m e c h a n t '   b ' a ' 
+   b ' s u b j e c t '   b ' i n '   b ' w h i c h '   b ' y o u '   b ' a r e '   b ' b o t h '   b ' i n t e r e s t e d '   b ' m a y ' 
+   b ' i n s p i r e '   b ' a '   b ' r o m a n t i c '   b ' l i a i s o n ' ]
+Target:.
+predicted word :.
+
+Input :[ b ' v i s i o n '   b ' , '   b ' t h e '   b ' m e a n s '   b ' , '   b ' a n d '   b ' t h e '   b ' l u c k '   b ' t o ' 
+   b ' a c c o m p l i s h '   b ' w o n d e r f u l '   b ' t h i n g s '   b ' f o r '   b ' y o u r '   b ' h o m e '   b ' a n d ' 
+   b ' f a m i l y '   b ' . '   b ' a c c e p t '   b ' i n v i t a t i o n s ' ]
+Target:and
+predicted word :and
+
+Input :[ b ' p e r s p e c t i v e '   b ' i s '   b ' a '   b ' h e a l t h y '   b ' p r a c t i c e '   b ' t h a t '   b ' b o l s t e r s ' 
+   b ' s e l f '   b ' - '   b ' c o n f i d e n c e '   b ' . '   b ' c o n s c i o u s l y '   b ' c r e a t i n g '   b ' t h i s ' 
+   b ' p e r s p e c t i v e '   b ' o n '   b ' a '   b ' r e g u l a r '   b ' b a s i s '   b ' i s ' ]
+Target:the
+predicted word :a
+
+Input :[ b ' h a s '   b ' a '   b ' c h a n c e '   b ' t o '   b ' c a l l '   b ' t h e '   b ' s h o t s '   b ' . '   b ' h u g o l e m e c h a n t ' 
+   b ' t h e '   b ' f i n a n c i a l '   b ' g o a l s '   b ' a n d '   b ' d r e a m s '   b ' y o u '   b ' h a v e '   b ' r e q u i r e ' 
+   b ' f o c u s '   b ' . '   b ' s u c h ' ]
+Target:windfalls
+predicted word :windfalls
+
+Input :[ b ' w i l l '   b ' c o n t i n u e '   b ' t o '   b ' h a u n t '   b ' y o u '   b ' . '   b ' y o u '   b " ' r e "   b ' f o r t u n a t e ' 
+   b ' t o '   b ' h a v e '   b ' s u c h '   b ' c l o s e '   b ' f r i e n d s '   b ' w h o '   b ' w i l l '   b ' s u p p o r t ' 
+   b ' y o u '   b ' t h r o u g h '   b ' t h i s ' ]
+Target:difficult
+predicted word :matter
+
+whatever you keep inside due to fear of ridicule or exposure will surface eventually . you will find however that shocks . the day 's planetary configuration may give you to talk that the sense of good one for you
+a dispute that has dragged on far too long must be resolved this weekend . make an effort to see acquire you : either it is not always to you to explore your way for hindrances . you may be
+let people into your life and they will take you good places ! make it is not always to thrive . you are not trouble to take a break from distasteful exercise and diet . you may not be at times are seeds . year 's planets small star forms present cycle that
+today you may expect an unexpected chance to make onto from a wider configuration : bring you feel have have been afraid for superficial . a
+your daily routine can be a great source of pleasure and discoveries this year if you can sit still long done . $ you may feel inclined to do and patch your way of meat relaxation to your own insights . $ you may be at times capricorn . you can be uneventful with a bit time at hand - expression means to be blind for a details perspective . the person means . the current celestial aspects means that you are not craving . you may eat are . hard to be smiling and toe . the fact thing makes . do not let them . there comes a good time to accomplish a real attitude . the fall 's other words may be more visible reality . $ you may feel that you are entertaining and upbeat , the first month , and you may have a drain . be careful and productive rich , particularly intimate outings outings in january . a bold favor may have last long of months . if you 'll 've in the last month ! $ set amusements and nutrition . august . you may feel well in august . be quietly and passionate . there may not last position year year ! $ be unexpected and pursuing , and not be afraid for all ! $ a tremendous wave expert organization , and you have a steamroller or haphazard point to the truth . you may be able to be wined and reserved fortune herbal tea and supports your giving of transformative . $ you may be at times crazy hard . the first planetary energy , you may feel like doing about it , but you are able to quarrel . $ you may feel that you are preparing the positive few of your life . you may feel like expressing your goals . combining , but you may feel like retreating and a bit of purification around you . there 's no reason you are currently for you to make tremendous of things . you may need to be acknowledged . the planetary configuration dominates you a bit of impression sense of freedom to make tremendous of things . $ you may feel that you are preparing the positive few of your life . you may feel like expressing your goals . combining , but you may feel like retreating and a bit of purification around you . there 's no reason you are currently for you to make tremendous of things . you may need to be acknowledged . the planetary configuration dominates you a bit of impression sense of freedom to make tremendous of things . $ you may feel that you are preparing the positive few of your life . you may feel like expressing your goals . combining , but you may feel like retreating and a bit of purification around you . there 's no reason you are currently for you to make tremendous of things . you may need to be acknowledged . the planetary configuration dominates you a bit of impression sense of freedom to make tremendous of things . $ you may feel that you are preparing the positive few of your life . you may feel like expressing your goals . combining , but you may feel like retreating and a bit of purification around you . there 's no reason you are currently for you to make tremendous of things . you may need to be acknowledged . the planetary configuration dominates you a bit of impression sense of freedom to make tremendous of things . $ you may feel that you are preparing the positive few of your
+
+*** EPOCH 54 ***
+Input :[ b ' a g a i n '   b ' w i l l '   b ' l e s s e n '   b ' y o u r '   b ' f e a r '   b ' o f '   b ' l o n e l i n e s s '   b ' . ' 
+   b ' h u g o l e m e c h a n t '   b ' t o d a y '   b ' s '   b ' p l a n e t a r y '   b ' c o n f i g u r a t i o n '   b ' f i l l s ' 
+   b ' y o u r '   b ' h e a r t '   b ' w i t h '   b ' r e v e r e n c e '   b ' f o r '   b ' w h a t ' ]
+Target:is
+predicted word :you
+
+Input :[ b ' w o r k '   b ' h e a t s '   b ' u p '   b ' i n '   b ' j a n u a r y '   b ' , '   b ' b u t '   b ' y o u '   b " ' l l "   b ' b e ' 
+   b ' r e a d y '   b ' . '   b ' f e b r u a r y '   b ' a n d '   b ' t h e '   b ' r e s t '   b ' o f '   b ' t h e '   b ' y e a r ' 
+   b ' a r e ' ]
+Target:full
+predicted word :full
+
+Input :[ b ' b e i n g '   b ' a n d '   b ' l o o k i n g '   b ' t h e '   b ' w a y '   b ' y o u '   b ' w a n t '   b ' . '   b ' b e ' 
+   b ' a m b i t i o u s '   b ' a n d '   b ' e n e r g e t i c '   b ' , '   b ' t o o '   b ' . '   b ' i n '   b ' m a y '   b ' y o u ' 
+   b ' m i g h t '   b ' c h a n g e ' ]
+Target:something
+predicted word :to
+
+Input :[ b ' i n '   b ' t o '   b ' y o u r '   b ' f e e l i n g s '   b ' o f '   b ' v u l n e r a b i l i t y '   b ' a n d ' 
+   b ' a p p r e c i a t e '   b ' w h a t '   b ' i t '   b ' m e a n s '   b ' t o '   b ' h a v e '   b ' f r i e n d s '   b ' ! ' 
+   b ' e x e r c i s e '   b ' w i l l '   b ' h e l p '   b ' y o u '   b ' s p r e a d ' ]
+Target:this
+predicted word :the
+
+Input :[ b ' . '   b ' y o u '   b ' n e v e r '   b ' h a v e '   b ' b e e n '   b ' c o n t e n t '   b ' w i t h '   b ' w h a t '   b " ' s " 
+   b ' p u r e l y '   b ' s k i n '   b ' - '   b ' d e e p '   b ' . '   b ' w h i l e '   b ' l i f e '   b ' l o o k s '   b ' o r d e r l y ' 
+   b ' a n d '   b ' c a l m ' ]
+Target:for
+predicted word :.
+
+Input :[ b ' t h e m '   b ' . '   b ' d o '   b ' n o t '   b ' w e a r '   b ' a n y t h i n g '   b ' t h a t '   b ' m a k e s '   b ' y o u ' 
+   b ' l o o k '   b ' l e s s '   b ' t h a n '   b ' a '   b ' m i l l i o n '   b ' d o l l a r s '   b ' , '   b ' a s '   b ' i t '   b ' i s ' 
+   b ' t h a t ' ]
+Target:mysterious
+predicted word :mysterious
+
+Input :[ b ' a c c l a i m '   b ' a n d '   b ' r e w a r d '   b ' . '   b ' e n d '   b ' t h e '   b ' y e a r '   b ' w i t h '   b ' w a r m ' 
+   b ' r o m a n c e '   b ' ! '   b ' h u g o l e m e c h a n t '   b ' c a r e e r '   b ' a n d '   b ' y o u r '   b ' s t a n d i n g ' 
+   b ' i n '   b ' t h e '   b ' w o r l d '   b ' a r e ' ]
+Target:highlighted
+predicted word :highlighted
+
+Input :[ b ' y o u '   b ' t o '   b ' t a k e '   b ' a '   b ' s t a n d '   b ' a b o u t '   b ' w h a t '   b ' y o u '   b ' b e l i e v e ' 
+   b ' i n '   b ' . '   b ' e m p a t h y '   b ' a n d '   b ' c o m p a s s i o n '   b ' c a n '   b ' o n l y '   b ' g o '   b ' s o ' 
+   b ' f a r '   b ' - ' ]
+Target:sometimes
+predicted word :you
+
+Input :[ b ' n o t '   b ' r e t i c e n t '   b ' . '   b ' t a l k '   b ' t o '   b ' p e o p l e '   b ' a n d '   b ' a s k '   b ' o p i n i o n s ' 
+   b ' a n d '   b ' a d v i c e '   b ' , '   b ' e s p e c i a l l y '   b ' i n '   b ' f e b r u a r y '   b ' . '   b ' y o u '   b " ' l l " 
+   b ' h e a r '   b ' h o p e s ' ]
+Target:and
+predicted word :.
+
+Input :[ b ' , '   b ' s i n c e '   b ' w h a t e v e r '   b ' y o u '   b ' s a y '   b ' m a y '   b ' c o m e '   b ' o u t '   b ' t h e ' 
+   b ' w r o n g '   b ' w a y '   b ' . '   b ' y o u r '   b ' w o r d s '   b ' a r e '   b ' l i k e l y '   b ' t o '   b ' h a v e ' 
+   b ' q u i t e '   b ' a ' ]
+Target:bite
+predicted word :long
+
+whatever you keep inside due to fear of ridicule or exposure will surface eventually . you will find however that elevates the packaging , the planets , otherwise your health of your body . $ you are not careful to
+a dispute that has dragged on far too long must be resolved this weekend . make an effort to see acquire you to a critical situation . $ the planetary alignment at the present energy for you to get bent
+let people into your life and they will take you good places ! $ today 's planetary alignment impels you to take a break to talk to throw up the movies . $ the planetary alignment makes you actually be drawn for a jolt decision exterior year . you may be tempted to
+today you may expect an unexpected chance to enter a upset look of your foods pie could trust - fixing , do not be able to
+your daily routine can be a great source of pleasure and discoveries this year if you can sit still long done . the planets could be a frustrating connection of the day unfold . do not be surprised you 're . the next two months 's end . $ assert that you have a burst up of your life . the year 's end of the day can prove frustrating to be safe . $ you may be surprised particularly about a variety today . you may be frustrated to take a little rattled and than a personal level that you are delay to figure advantage . give yourself permission you . $ you may be more interested for you realize to be a little of positive that you are not positioned . the fact you have a lot of unconscious members you . the drive to take a new step to change a real vote . perhaps it is essentially of the next . then you may have the resources of act is not always to internalize your lymphatic system quickly to visit yourself and do not let them down . you are bound to pure out to assist your lymphatic system quickly . the fall 's astral energy leaves you can be caught up from the other path your networking . the planets could be that met , sagittarius . if you are feeling off for a details situation . if you are feeling okay . but you are feeling okay . you will not be able to serve a partner or a partner , so pace , you may find to be collapsing . you also command to you and you can be boring distracted . the current celestial atmosphere , you may not lose be able to serve a partner or a child . you may be tempted to impress . it 's a good day to take a step decision to dominate a step to change . $ the gas you can invite to you . it 's a good deal of cherished follow your other hobbies . if be problems courage to sense of planning or speaking . you may be tempted to prepare a step to tell . you will certainly flourish with the day . $ you may be a good idea to talk to you . the current celestial atmosphere of your position . you may have moments is hidden quite special of the fairytale skills to deal you fostered , and you may want to do and patch the details . $ you may be a good idea to talk that you can be boring and wonderful . you may also be a good idea to invite to you . $ you may be surprised particularly about leaps your meal feeling . you may want to reflect a bit of participation that you have been wrestling up . external , and outwardly ) might not be better to lay on the next . however , you may find a little glass 's challenging , you have the resources for you . the drive to get a rebuttal start surrounding you expected . do not be surprised . it 's a sizzling environment could be a drain . do not have a chance to shift over your plate situation . if you are single a decision to adopt your sensitivity principles . perhaps you are feeling off for a details perspective . the present planetary configuration lasts that you have a chance to talk . the lack of fighting you are never to be warned . the current celestial alignment impels you to push your credibility of your life . you
+
+*** EPOCH 55 ***
+Input :[ b ' y e a r '   b ' ! '   b ' h u g o l e m e c h a n t '   b ' f i n d '   b ' c o u n t l e s s '   b ' s u r p r i s i n g ' 
+   b ' d e l i g h t s '   b ' c l o s e '   b ' t o '   b ' h o m e '   b ' a n d '   b ' i n '   b ' t h e '   b ' c o m p a n y '   b ' o f ' 
+   b ' c h o i c e '   b ' f r i e n d s '   b ' a n d '   b ' f a m i l y '   b ' t h i s ' ]
+Target:year
+predicted word :year
+
+Input :[ b ' w o r l d '   b ' a n d '   b ' c o m f o r t a b l e '   b ' w i t h '   b ' y o u r s e l f '   b ' n o '   b ' m a t t e r ' 
+   b ' w h a t '   b " ' s "   b ' h a p p e n i n g '   b ' . '   b ' t h e '   b ' f i r s t '   b ' f e w '   b ' m o n t h s '   b ' l o o k ' 
+   b ' c a l m '   b ' a n d '   b ' g o o d '   b ' f o r ' ]
+Target:making
+predicted word :yourself
+
+Input :[ b ' n o '   b ' o n e '   b ' e l s e '   b ' c a n '   b ' s e e '   b ' . '   b ' i t '   b ' m a y '   b ' b e '   b ' h a r d '   b ' t o ' 
+   b ' s h a r e '   b ' y o u r s '   b ' n e w s '   b ' , '   b ' t h o u g h '   b ' , '   b ' b u t '   b ' d o '   b ' n o t ' ]
+Target:let
+predicted word :let
+
+Input :[ b ' p e o p l e '   b ' a r e '   b ' n o t '   b ' m i n d '   b ' r e a d e r s '   b ' . '   b ' t h e y '   b ' p r o b a b l y ' 
+   b ' h a v e '   b ' n o '   b ' i d e a '   b ' w h a t '   b ' y o u '   b ' f e e l '   b ' . '   b ' h u g o l e m e c h a n t ' 
+   b ' r e a c h '   b ' f o r '   b ' t h e '   b ' p o t ' ]
+Target:of
+predicted word :of
+
+Input :[ b ' f o r c e '   b ' a t '   b ' w o r k '   b ' , '   b ' b u t '   b ' i t '   b ' m i g h t '   b ' b e '   b ' a '   b ' g o o d ' 
+   b ' i d e a '   b ' c h e c k '   b ' w i t h '   b ' y o u r '   b ' p h o n e '   b ' c o m p a n y '   b ' . '   b ' t h e r e ' 
+   b ' c o u l d '   b ' b e ' ]
+Target:problems
+predicted word :a
+
+Input :[ b ' y o u r '   b ' w o r d s '   b ' w i l l '   b ' b e '   b ' t a k e n '   b ' s e r i o u s l y '   b ' , '   b ' a n d '   b ' y o u ' 
+   b ' s h o u l d '   b ' n o t '   b ' m i s l e a d '   b ' p e o p l e '   b ' i n t o '   b ' t h i n k i n g '   b ' t h a t ' 
+   b ' s o m e t h i n g '   b ' i s '   b ' g o i n g '   b ' t o ' ]
+Target:happen
+predicted word :be
+
+Input :[ b ' s p r i n g '   b ' , '   b ' a n d '   b ' t h e n '   b ' b e n e f i t '   b ' t h e '   b ' r e s t '   b ' o f '   b ' t h e ' 
+   b ' y e a r '   b ' . '   b ' c l e v e r n e s s '   b ' a n d '   b ' b e a u t y '   b ' u n i t e '   b ' i n '   b ' t h e '   b ' l a s t ' 
+   b ' m o n t h '   b ' . ' ]
+Target:bask
+predicted word :in
+
+Input :[ b ' o r d e r '   b ' t o '   b ' g e t '   b ' y o u r '   b ' p o i n t '   b ' a c r o s s '   b ' . '   b ' h u g o l e m e c h a n t ' 
+   b ' o n e '   b ' o f '   b ' y o u r '   b ' v i r t u e s '   b ' i s '   b ' t h a t '   b ' y o u '   b ' c a n '   b ' t a l k ' 
+   b ' p e o p l e '   b ' i n '   b ' a n d ' ]
+Target:out
+predicted word :or
+
+Input :[ b ' d o '   b ' n o t '   b ' o v e r l o o k '   b ' a n y t h i n g '   b ' i m p o r t a n t '   b ' . '   b ' b e '   b ' i n s p i r e d ' 
+   b ' b y '   b ' c o '   b ' - '   b ' w o r k e r s '   b ' i n '   b ' f e b r u a r y '   b ' a n d '   b ' i n s p i r e '   b ' t h e m ' 
+   b ' , '   b ' t o o '   b ' . ' ]
+Target:bask
+predicted word :your
+
+Input :[ b ' s m a r t '   b ' , '   b ' a n d '   b ' g r a c i o u s '   b ' . '   b ' f r i e n d s '   b ' p r o v i d e '   b ' f a n c i f u l ' 
+   b ' a m u s e m e n t '   b ' i n '   b ' f e b r u a r y '   b ' . '   b ' a p r i l '   b ' h a s '   b ' e x c i t i n g '   b ' f u n ' 
+   b ' . '   b ' a u g u s t '   b ' a n d '   b ' s e p t e m b e r ' ]
+Target:are
+predicted word :are
+
+whatever you keep inside due to fear of ridicule or exposure will surface eventually . you will find however that shocks . the day 's planetary aspects around you are not careful . $ you are in a lot of
+a dispute that has dragged on far too long must be resolved this weekend . make an effort to see acquire you to explore the step of your life . if you are entertaining and successful in the first month
+let people into your life and they will take you good places ! $ today 's aspect is not the chance to go holes and you to get up in the day . $ you are not realized the right to you and you will be getting carried in the first month ,
+today you may expect an unexpected chance organizing you 've have pulled up . $ if you feel like staying to relax . $ you feel
+your daily routine can be a great source of pleasure and discoveries this year if you can sit still long done . $ today you are in a lot of playmates argument to worry the world you need to impress . it 's a good day to take the positive attitude . do and patch the way . $ you are in a lot of playmates argument to the flashes carefully and take the vitality of discontent and relax . it probably can not be the norm , you will be able to be warned . the current celestial alignment impels you to take comfort of your own insights . you may be craving of ? 's also . $ today 's planetary aspects means that actually to grow that you are officially . $ do not be surprised particularly about the truth , but you feel like the wrong you need to be smiling . grounding breathing and choices , apple , and take care of yourself . $ today 's planetary aspects is difficult to be the most of the day . you may feel frustrated with words political new step . $ you are wishing to you to the extremes of anxiety . drink oil or anxiety . perhaps you feel like expressing the movies . aim the benefits of knowing . you will find to branch . thus , you 're on a joiner foundation , but somehow the benefits of encountering . this is a day that you feel like the thought you need . $ you are generally cloudy too than the reality of your life , take baby change over the next four cents . cycles can be a good time to talk . beware , and mean that the day is not always to internalize the step . $ you are wishing to sail up and forgive . . oh you eat and in february . in february and work in april and march . relax and temper in april and april and april lets , be popular and be ready to save . but you 're well in february . be realistic and productive rich fun . august lets you more more comfortable , loved in october . in january and october . relax in loving , doubt yourself up with the arms , work , and solid year of your friends . in february 7 and doubt calm and let acquire you for further months and work . be the busiest , but you are the quality of rest involved . $ you 're probably to be perfectly stuck on the next few of your lungs . in order to feel a bit of participation that is financially direction . $ you may feel that you 're approaching to satisfy the destructive of and move the situation . do not be afraid to reveal , it 's no occasion is the time to make the necessary boundaries on your body . $ you are feeling pent today , capricorn . you will feel like the struggle to cleanse the individual issue of your life . $ today you are in a lot of purification and awareness your ideas to adopt your intentions . you will find to explore the step of your life . $ today is an day is on the inside of your list - related , then it is not always to thrive the way of things . $ you are feeling pent the successful of the planets and you may feel encouraged to you . $ you are in a lot of playmates argument to worry the world you need to impress . $ you are
+
+*** EPOCH 56 ***
+Input :[ b ' ! '   b ' ) '   b ' a n d '   b ' b e '   b ' e v e n '   b ' m o r e '   b ' v i g i l a n t '   b ' i n '   b ' o p e n i n g ' 
+   b ' y o u r s e l f '   b ' u p '   b ' t o '   b ' l e a r n '   b ' w h a t '   b ' i s '   b ' i n s i d e '   b ' . ' 
+   b ' h u g o l e m e c h a n t '   b ' y o u '   b ' h a v e ' ]
+Target:been
+predicted word :the
+
+Input :[ b ' a u g u s t '   b ' s o m e t h i n g '   b ' a '   b ' f r i e n d '   b ' s a y s '   b ' i n '   b ' p r i v a t e '   b ' m a y ' 
+   b ' s u d d e n l y '   b ' c l i c k '   b ' a n d '   b ' w o r k '   b ' o u t '   b ' f o r '   b ' y o u '   b ' i n '   b ' p u b l i c ' 
+   b ' . '   b ' s o m e '   b ' u n e x p e c t e d ' ]
+Target:summer
+predicted word :environment
+
+Input :[ b ' w h a t e v e r '   b ' i t '   b ' i s '   b ' y o u '   b ' c a n '   b ' d o '   b ' t o '   b ' g e t '   b ' t h e '   b ' m o s t ' 
+   b ' o u t '   b ' o f '   b ' y o u r '   b ' p e r s o n a l '   b ' r e l a t i o n s h i p s '   b ' i s '   b ' r e c o m m e n d e d ' 
+   b ' f o r '   b ' t o d a y '   b ' . ' ]
+Target:$
+predicted word :$
+
+Input :[ b ' y o u r '   b ' p a r t n e r '   b ' w i l l '   b ' b r i n g '   b ' m u c h '   b ' h a p p i n e s s '   b ' y o u r '   b ' w a y ' 
+   b ' i n '   b ' s e p t e m b e r '   b ' . '   b ' b e '   b ' c l e a r '   b ' a b o u t '   b ' w h a t '   b " ' s "   b ' i l l u s i o n ' 
+   b ' i n '   b ' d e c e m b e r '   b ' . ' ]
+Target:by
+predicted word :you
+
+Input :[ b ' w i l l '   b ' n o t '   b ' m a k e '   b ' y o u '   b ' c a r e l e s s '   b ' . '   b ' b e '   b ' w i s e '   b ' , ' 
+   b ' g e n e r o u s '   b ' , '   b ' a n d '   b ' l u c k y '   b ' f o r '   b ' o t h e r s '   b ' - '   b ' a n d '   b ' y o u '   b ' - ' 
+   b ' i n ' ]
+Target:august
+predicted word :february
+
+Input :[ b ' f i n d i n g '   b ' s o m e t h i n g '   b ' t o '   b ' i d e n t i f y '   b ' w i t h '   b ' o n '   b ' t h e '   b ' o u t s i d e ' 
+   b ' . '   b ' y o u '   b ' w i l l '   b ' b e n e f i t '   b ' f r o m '   b ' a s s e r t i n g '   b ' y o u r s e l f '   b ' o n ' 
+   b ' t h e '   b ' p h y s i c a l '   b ' p l a n e '   b ' u n d e r ' ]
+Target:this
+predicted word :the
+
+Input :[ b ' o u t '   b ' o f '   b ' t h e '   b ' e x e r c i s e '   b ' b o t h '   b ' p h y s i c a l l y '   b ' a n d '   b ' m e n t a l l y ' 
+   b ' . '   b ' t h e '   b ' t i m e '   b ' y o u '   b ' s p e n d '   b ' w o r k i n g '   b ' o n '   b ' y o u r '   b ' b o d y ' 
+   b ' i s '   b ' p r e c i o u s '   b ' t o ' ]
+Target:the
+predicted word :you
+
+Input :[ b ' s p o t l i g h t '   b ' i n '   b ' a p r i l '   b ' , '   b ' b e '   b ' m o d e s t '   b ' a n d '   b ' l e t '   b ' i t ' 
+   b ' b l o w '   b ' o v e r '   b ' . '   b ' e n j o y '   b ' a '   b ' s p e c t a c u l a r '   b ' , '   b ' l o v e '   b ' - ' 
+   b ' f i l l e d '   b ' l a s t ' ]
+Target:month
+predicted word :month
+
+Input :[ b ' m o r e '   b ' h e l p '   b ' a n d '   b ' r e s o u r c e s '   b ' t h a n '   b ' y o u '   b ' s u s p e c t '   b ' . ' 
+   b ' j u s t '   b ' s t a r t '   b ' t h e '   b ' c o n v e r s a t i o n '   b ' . '   b ' y o u r '   b ' i d e a s '   b ' a n d ' 
+   b ' e f f o r t s '   b ' a r e '   b ' n o t i c e d '   b ' b y ' ]
+Target:many
+predicted word :the
+
+Input :[ b ' c a n '   b ' g i v e '   b ' y o u '   b ' a '   b ' l o t '   b ' o f '   b ' s a t i s f a c t i o n '   b ' t o '   b ' b e ' 
+   b ' p a r t '   b ' o f '   b ' a '   b ' v o l u n t e e r '   b ' o r g a n i z a t i o n '   b ' . '   b ' y o u '   b ' g e t '   b ' t o ' 
+   b ' p i c k '   b ' t h e ' ]
+Target:cause
+predicted word :blame
+
+whatever you keep inside due to fear of ridicule or exposure will surface eventually . you will find however that leads to talk that the harder that you are . you will be able to relate your emotions . you
+a dispute that has dragged on far too long must be resolved this weekend . make an effort to see acquire you to explore the step growth . be sure to get a little rattled . you will find to
+let people into your life and they will take you good places ! $ today 's aspect is not sure to get a break to you to see . you will find to be a bit of purification around you . you will find to be a little glass 's wise . you
+today you may expect an unexpected chance to get a sense to others . $ treasure people 's no one time to talk that cause are
+your daily routine can be a great source of pleasure and discoveries this year if you can sit still long points . $ today you are feeling off for the spectrum of trying to you to take yourself alert . you have the resources for the past of the kinds that you normally really ready to get a lot of unconscious or your true that also eventually to get a rebuttal test . you hear the healthiest of yourself intake , lots , and somehow like you relate what is you believing . the next day may have a clever , congenial year ! $ you 're in the first month . in february and october , and you 'll settle the extra precautions in july . relax in april . be compassionate and productive satisfying stable . a startling change may be clear . july lights year ! $ find countless good arms paths your partner . year , and a private fling may want to get a lot of mystery one in april and september , you 're at home disagreements . year too popular in august . treasure responsibilities , generosity , and neighbors you love . pace in april . treasure hard in february . be responsible and productive examples . if you give yourself in august and attract resources . may not be a few view in the summer ! $ a friend says could be wasted with opposition . you 're insecure and lucky in december . in january and april may be challenge and wait secure . july . a yearned deserve love . in january , and do not let those exercise and love . in april and good times may be bigger but though . honesty , and proactive , and bursting the blessing flow your life . you may be tempted to be the most of the wills . you cannot to be wined and opposition levels attention . $ you exchanges food than another educated , but matter is soft and effective . april is busy and loving generous and bright fun , too tuned useful to see you love . if you give some drawn of the previous months . do not be able to pick up the old resentments . $ today 's planetary configuration could also mention that something to be blind for the truth that you are officially . there 's no reason you can be undone by . you 're naturally to or thinking to frustration . $ today you will be easily to internalize your creative . you may sympathize to the landscape of your talents . you will find to be clear on the worst . if you are not positioned . you will find that you 're using you again . consult to you to get collected . consult your creative . $ you may be at times whether you are officially . you will be extremely pretty special to do and go up . you will find to be pulled . . $ today 's planetary alignment impels you to get a mental of your life occasion . you may have to mention a bit of salt or personal power effects will be to be outrageous again . you will find to be outrageous . you will find to be a little glass . the fact , you can test to pure on . you will not be easily to choose the kind of energy . you can be caught the successful between the day . you may be satisfied off blindly . you will find to be clear on yourself . $ you 're surrounded to you to get
